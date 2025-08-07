@@ -4,9 +4,11 @@ date: 2025-08-07
 ---
 # troy kaighin astarte
 
-welcome to the web pages for troy kaighin astarte. 
+welcome to the web pages for troy kaighin astarte. (it is meant to look like this. it's a statement.)
 
-it is meant to look like this. it's a statement.
+maybe you came here for my email. it's <t.k.astarte@swansea.ac.uk>. 
+
+or maybe for my publications, or cv? that's not here yet. sorry.
 
 ## navigation
 
