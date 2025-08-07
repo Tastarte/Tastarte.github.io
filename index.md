@@ -1,8 +1,8 @@
 ---
-title: troy kaighin astarte
+title: dr troy kaighin astarte
 date: 2025-08-07
 ---
-# troy kaighin astarte
+# dr troy kaighin astarte
 
 welcome to the web pages for troy kaighin astarte. (it is meant to look like this. it's a statement.)
 
@@ -14,7 +14,7 @@ or maybe for my publications, or cv? that's not here yet. sorry.
 
 ## navigation
 
-- [troy kaighin astarte](#troy-kaighin-astarte)
+- [dr troy kaighin astarte](#dr-troy-kaighin-astarte)
   - [navigation](#navigation)
   - [about me](#about-me)
   - [pictures](#pictures)
