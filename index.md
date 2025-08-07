@@ -1,3 +1,7 @@
+---
+title: troy kaighin astarte
+date: 2025-08-07
+---
 # troy kaighin astarte
 
 welcome to the web pages for troy kaighin astarte. 
@@ -9,7 +13,7 @@ it is meant to look like this. it's a statement.
 - [troy kaighin astarte](#troy-kaighin-astarte)
   - [navigation](#navigation)
   - [about me](#about-me)
-  - [puffins](#puffins)
+  - [pictures](#pictures)
 
 ## about me
 
@@ -17,6 +21,7 @@ troy kaighin astarte is (for now) a lecturer in computer science at [swansea uni
 
 as an agender person (pronouns: they/them) troy appreciates gender-neutral terms of address. this is why the bio is written in the third person. they like to be called ‘troy’ or if more formality is needed, ‘dr. troy’. please, not ‘professor’ or ‘sir’.
 
-## puffins
+## pictures
 
-![two puffins preening each other](/res/img/puffins.gif)"i took lots of puffin photos and made this gif"
+![two puffins preening each other](res/img/puffins.gif)
+![it's my cat misty](res/img/Misty_loafing_around.png)
