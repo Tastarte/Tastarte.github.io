@@ -1,0 +1,33 @@
+@import url("styles2.css");
+
+#content {
+    min-width: 1100px;
+}
+
+.footnotes {
+    background: #eee;
+    padding: 0.25em;
+}
+
+.controls {
+    margin: 1em 0;
+    padding: 0.5em;
+}
+
+#controls {
+	min-width: 1100px;	
+	text-align: center;
+}
+
+#controls table {
+	display: inline;
+	text-align: left;
+}
+
+#controls table * {
+	margin: 0;
+}
+
+#controls table:nth-child(2) {
+	margin-left: -6px;
+}

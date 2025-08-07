@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<event start="Apr 22 1963" title="David Beech joins Hursley">
+		David Beech joins the IBM Laboratory in Hursley.
+
+		&lt;br /&gt;
+        &lt;br /&gt;
+	</event>
+
+	<event start="1986" end="2013" isDuration="true" title="Reynolds at Carnegie Mellon University">
+		John C. Reynolds is a Professor of Computer Science at Carnegie Mellon University, Pennsylvania.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		CARNEGIE MELLON, PENNSYLVANIA, LOCATION
+	</event>
+
+	<event start="1970" end="1986" isDuration="true" title="Reynolds at Syracuse University">
+		John C. Reynolds is a Professor of Information Science at Syracuse University, New York.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		SYRACUSE, NEW YORK, LOCATION
+	</event>
+
+	<event start="1978" end="2004" isDuration="true" title="Mosses at University of Aarhus">
+		Peter D. Mosses is an Associate Professor at University of Aarhus.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		AARHUS, LOCATION
+	</event>
+
+	<event start="1960" end="1964" isDuration="true" title="Landin as Strachey's Assistant">
+		Peter Landin works as an assistant to Christopher Strachey's consulting business.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		LOCATION
+	</event>
+
+	<event start="Sep 3 1974" end="Sep 4 1974" title="Formal Aspects of Computing Science" isDuration="true">
+		Start of the spat between E. W. Dijkstra and D. S. Scott.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		CONFERENCE, LOCATION
+	</event>
+
+	<event start="Sep 1978" end="Jun 1979" title="Beki&#269; at Queens Mary College London" isDuration="true">
+		Hans Beki&#269; spends the academic year 78/79 with Peter Landin at Queens Mary College London.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		LONDON, LOCATION
+	</event>
+
+	<event start="Oct 31 1967" title="Introduction to the Method Used for the Formal Definition of PL/I">
+		P. Lucas publishes &lt;i&gt;Introduction to the Method Used for the Formal Definition of PL/I&lt;/i&gt;. Revised 28 June 1968.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		REPORT, PUBLICATION
+	</event>
+
+	<event start="Nov 18 1965" title="On the Formalization of Syntax and Semantics of PL/I">
+		P. Lucas publishes &lt;i&gt;On the Formalization of Syntax and Semantics of PL/I&lt;/i&gt;.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		REPORT, PUBLICATION
+	</event>
+
+	<event start="Aug 12 1966" title="A Notion of Interpretability of Algorithms in Algorithms">
+		C. C. Elgot publishes &lt;i&gt;A Notion of Interpretability of Algorithms in Algorithms&lt;/i&gt;.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		REPORT, PUBLICATION
+	</event>
+
+	<event start="May 20 1971" title="On the Vienna Method for the Definition of Programming Languages">
+		A. Ollongren publishes &lt;i&gt;On the Vienna Method for the Definition of Programming Languages&lt;/i&gt;.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		REPORT, PUBLICATION
+	</event>
+
+	<event start="Sep 3 1971" title="A Theory for the Objects of the Vienna Definition Language">
+		A. Ollongren publishes &lt;i&gt;A Theory for the Objects of the Vienna Definition Language&lt;/i&gt;.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		REPORT, PUBLICATION
+	</event>
+
+
+	<!-- OKAY FROM HERE UP -->
+
+
+	<event start="Feb 25 1965" title="Bibliography on Formal Language Description Languages">
+	    H. Beki&#269; and F. Schwarzenberger publish &lt;i&gt;Bibliography on Formal Language Description Languages&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Aug 9 1965" title="Semiotics and Programming Languages">
+	    H. Zemanek publishes &lt;i&gt;Semiotics and Programming Languages&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Oct 1982" title="Hans Beki&#269; Dies">
+	    Hans Beki&#269; dies tragically in a mountain accident.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+	    VIENNA
+	</event>
+
+	<event start="Dec 02 2004" title="Program Verification and Semantics - Further Work">
+	    'Program Verification and Semantics - Further Work' Computer Conservation Society (CSS) lecture, London.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    LECTURE, LONDON, LOCATION
+	</event>
+
+	<event start="Jun 07 2001" title="Program Verification and Semantics">
+	    'Program Verification and Semantics' Computer Conservation Society (CSS) lecture, London.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    LECTURE, LONDON, LOCATION
+	</event>
+
+	<event start="1972" end="1981" isDuration="true" title="Scott in Oxford">
+	    Dana Scott is the Professor of Mathematical Logic at Oxford University.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    OXFORD, LOCATION
+	</event>
+
+	<event start="May 1962" title="ALGOL 60 Compiler for Mail&#252;fterl">
+	    ALGOL 60 compiler implemented on Heinz Zemanek's group's 'Mail&#252;fterl' computer by the IBM Laboratory Vienna.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+	    VIENNA, LOCATION
+	</event>
+
+	<event start="1966" end="1972" title="Lauer at IBM Laboratory Vienna" isDuration="true">
+	    Peter E. Lauer works as a Research Scientist at the IBM Laboratory in Vienna.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    VIENNA, LOCATION
+	</event>
+
+	<event start="Jun 30 1969" title="Outline of a Formal Definition of FORTRAN">
+	    K. Zimmermann publishes &lt;i&gt;Outline of a Formal Definition of FORTRAN&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Mar 1988" title="Semantics of Object-Oriented Languages">
+	    M. I. Wolczko completes his PhD thesis 'Semantics of Object-Oriented Languages'.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    THESIS
+	</event>
+
+	<event start="1981" title="History of Programming Languages" nomonth="true">
+	    &lt;i&gt;History of programming languages&lt;/i&gt; is published by Academic Press, edited by Richard L. Wexelblat.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="Oct 1984" title="A Database Programming Language: Definition, Implementation and Correctness Proofs">
+	    A. Welsh completes her PhD thesis 'A Database Programming Language: Definition, Implementation and Correctness Proofs'.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    THESIS
+	</event>
+	<event start="Oct 1982" title="The Specification, Design and Implementation of NDB">
+	    A. Welsh completes her master's thesis 'The Specification, Design and Implementation of NDB'.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    THESIS
+	</event>
+
+	<event start="Feb 12 1975" title="A Formal Interface Specification">
+	    F. Weissenb&#246;ck publishes &lt;i&gt;A Formal Interface Specification&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Sep 1971" title="Semantics and Pragmatics of the Lambda-Calculus">
+	    Christopher P. Wadsworth completes his PhD thesis 'Semantics and Pragmatics of the Lambda-Calculus'.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    THESIS
+	</event>
+
+	<event start="May 11 1964" end="May 12 1964" title="Minutes of the 4th Meeting of IFIP TC2">
+	    R. E. Utman publishes &lt;i&gt;Minutes of the 4th meeting of IFIP TC2&lt;/i&gt; chaired by H. Zemanek, archived by Andrei Ershov.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://ershov-arc.iis.nsk.su/archive/eaindex.asp?did=41826" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="Sep 09 1963" title="Minutes of the 3rd Meeting of IFIP TC2">
+	    R. E. Utman publishes &lt;i&gt;Minutes of the 3rd meeting of IFIP TC2&lt;/i&gt; chaired by H. Zemanek, archived by Andrei Ershov.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://ershov-arc.iis.nsk.su/archive/eaindex.asp?did=41825" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="Jun 30 1969" title="ULD Version III">
+	    IBM Laboratory Vienna publishes &lt;i&gt;Universal Language Document&lt;/i&gt; version III, featuring:&lt;br /&gt;&lt;br /&gt;
+
+	    - &lt;i&gt;Formal Definition of the PL/I Compile Time Facilities&lt;/i&gt; by M. Fleck&lt;br /&gt;
+	    - &lt;i&gt;Concrete Syntax of PL/I&lt;/i&gt; by G. Urschler&lt;br /&gt;
+	    - &lt;i&gt;Translation of PL/I into Abstract Syntax&lt;/i&gt; by G. Urschler&lt;br /&gt;
+	    - &lt;i&gt;Abstract Syntax and Interpretation of PL/I&lt;/i&gt; by Kurt Walk, K. Alber, M. Fleck, H. Goldmann, Peter E. Lauer, E. Moser, P. Oliva, H. Stigleitner and G. Zeise&lt;br /&gt;
+	    - &lt;i&gt;Informal Introduction to the Abstract Syntax and Interpretation of PL/I&lt;/i&gt; by K. Alber, H. Goldmann, Peter E. Lauer, Peter Lucas, P. Oliva, H. Stigleitner, Kurt Walk and G. Zeisel
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="Jun 28 1968" title="ULD Version II">
+	    IBM Laboratory Vienna publishes &lt;i&gt;Universal Language Document&lt;/i&gt; version II, featuring:&lt;br /&gt;&lt;br /&gt;
+
+	    - &lt;i&gt;Concrete Syntax of PL/I&lt;/i&gt; by K. Alber, P. Oliva and G. Urschler&lt;br /&gt;
+	    - &lt;i&gt;Formal Definition of the PL/I Compile Time Facilities&lt;/i&gt; by M. Fleck and Erich Neuhold&lt;br /&gt;
+	    - &lt;i&gt;Informal Introduction to the Abstract Syntax and Interpretation of PL/I&lt;/i&gt; by Peter Lucas, K. Alber, Kurt Bandat, Hans Beki&#269;, P. Oliva, Kurt Walk and G. Zeise&lt;br /&gt;
+	    - &lt;i&gt;Method and Notation for the Formal Definition of Programming Languages&lt;/i&gt; by Peter Lucas, Peter E. Lauer and H. Stigleitner&lt;br /&gt;
+	    - &lt;i&gt;Abstract Syntax and Interpretation of PL/I&lt;/i&gt; by Kurt Walk, K. Alber, K. Bandat, Hans Beki&#269;, Gerhard Chroust, Viktor Kudielka, P. Oliva and G. Zeisel&lt;br /&gt;
+	    - &lt;i&gt;Translation of PL/I into Abstract Syntax&lt;/i&gt; by K. Alber and P. Oliva
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/VDL-TRs/" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+
+	<event start="Dec 1966" title="Formal Definition of PL/I (Universal Language Document No. 3)">
+	    The PL/I Definition Group of the Vienna Laboratory publish &lt;i&gt;Formal Definition of PL/I (Universal Language Document No. 3)&lt;i&gt; in
+	    ULD Version I.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Aug 1976" title="The Denotational Semantics of Programming Languages">
+	    Publication of R. D. Tennent's 'The Denotational Semantics of Programming Languages' in
+	    &lt;i&gt;Communications of the ACM&lt;/i&gt; 19.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Jul 28 1966" title="Editing Algorithms for Texts over Formal Grammars">
+	    F. Scwarzenberger and H. Zemanek publish &lt;i&gt;Editing Algorithms for Texts over Formal Grammars&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Jan 1974" title="Continuations – A Mathematical Semantics for Handling Jumps">
+	    Christopher Strachey and Christopher P. Wadsworth publish &lt;i&gt;Continuations – A Mathematical Semantics for Handling Jumps&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Nov 1961" title="Some Proposals for Improving the Efficiency of ALGOL 60">
+	    Publication of Christopher Strachey and Maurice V. Wilkes' 'Some Proposals for Improving the Efficiency of ALGOL 60' in
+	    &lt;i&gt;Communications of the ACM&lt;/i&gt; 4.11.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Mar 1973" title="The Varieties of Programming Language">
+	    Christopher Strachey publishes &lt;i&gt;The Varieties of Programming Language&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="1966" title="Towards a Formal Semantics" nomonth="true">
+	    Publication of Christopher Strachey's 'Towards a Formal Semantics' in
+	    &lt;i&gt;Formal Language Description Languages for Computer Programming&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1980" title="Foundations of Denotational Semantics" nomonth="true">
+	    Publication of J. E. Stoy's 'Foundations of denotational semantics' in
+	    &lt;i&gt;Abstract Software Specifications: 1979 Copenhagen Winter School January 22 – February 2, 1979 Proceedings&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://link.springer.com/chapter/10.1007%2F3-540-10007-5_35" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1977" title="Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory" nomonth="true">
+	    J. E. Stoy publishes &lt;i&gt;Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory&lt;i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    DENOTATIONAL, PUBLICATION
+	</event>
+
+	<event start="1966" title="Formal Language Description Languages for Computer Programming" nomonth="true">
+	    The proceedings of the &lt;i&gt;IFIP Working Conference on Formal Language Description Languages&lt;/i&gt; are published by North-Holland Publishing Company, edited by T. B. Steel, Jr.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    CONFERENCE, PROCEEDINGS, PUBLICATION
+	</event>
+
+
+
+	<!-- OKAY FROM HERE DOWN -->
+
+
+	<event start="1977" title="Semantics and Proof Theory of PASCAL Procedures" nomonth="true">
+		Publication of Krzysztof R Apt and Jacobus Willem de Bakker's 'Semantics and proof theory of PASCAL procedures' in &lt;i&gt;International Colloquium on Automata, Languages and Programming&lt;/i&gt;.
+
+		&lt;br /&gt;
+        &lt;br /&gt;
+
+		PAPER, PUBLICATION
+	</event>
+
+    <event start='Nov 01 1969' title="An Axiomatic Basis for Computer Programming">
+        Publication of Tony Hoare's 'An axiomatic basis for comptuter programming' in &lt;i&gt;Communications of the ACM&lt;/i&gt; 12.10.
+
+		&lt;br /&gt;
+        &lt;br /&gt;
+
+		Available &lt;a href="http://dl.acm.org/citation.cfm?doid=363235.363259" title="View Online"&gt;here&lt;/a&gt;.
+
+        &lt;br /&gt;
+        &lt;br /&gt;
+
+        AXIOMATIC, PAPER, PUBLICATIONS
+    </event>
+
+    <event start="Sep 15 1964" end="Sep 18 1964" isDuration="true"
+        title="FLDL conference">
+        Formal Language Description Languages conference, Baden-bei-Wien.
+        &lt;br /&gt;
+        &lt;br /&gt;
+        CONFERENCE
+    </event>
+
+    <event start="1966"
+        title="FLDL proceedings"
+        nomonth="true">
+        Proceedings of FLDL conference, edited by T. B. Steel, are published by North Holland.
+        &lt;br /&gt;
+        &lt;br /&gt;
+        CONFERENCE, PROCEEDINGS, PUBLICATION
+    </event>
+
+	<event start="Feb 15 2016" title="Logic Lounge with Dana S. Scott">
+	    Dana Scott and Tanja Traxler &lt;i&gt;Logic Lounge with Dana Scott&lt;/i&gt; online video interview.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="https://www.youtube.com/watch?v=nhc94A829qI" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    INTERVIEW, VIDEO
+	</event>
+
+    <event start="May 01 1965"
+    title="Mimeograph of 'Assigning Meaning'"
+    >
+    Bob Floyd circulates a mimeographed version of 'Assigning Meanings to Programs.'
+
+    Available on Cliff's webpage at &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/MSs/Floyd66.pdf" title="View online"&gt;this page&lt;/a&gt;.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    DRAFT, AXIOMATIC, PUBLICATIONS
+    </event>
+
+    <event start="1967"
+    title="'Assigning Meaning'"
+    nomonth="true">
+    Publication of Bob Floyd's 'Assigning meaning to programs' in &lt;i&gt;Mathematical Aspects of Computer Science&lt;/i&gt;.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    PAPER, AXIOMATIC, PUBLICATION
+    </event>
+
+    <event start="Oct 3 1968" end="Sept 1 1970" isDuration="true"
+    title="Jones in Vienna 1"
+    >
+    Cliff Jones spends his first soujourn at the IBM Laboratory in Vienna
+    &lt;br /&gt;
+    &lt;br /&gt;
+    VIENNA, LOCATION
+    </event>
+
+    <event start="Feb 1 1973" end="Aug 1 1976" isDuration="true"
+    title="Jones in Vienna 2"
+    >
+    Cliff Jones' second secondment in Vienna.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    VIENNA, LOCATION
+    </event>
+    <event start="Aug 18 1969" end="Aug 22 1969" isDuration="true"
+    title="Scott in Vienna"
+    >
+    Invited by the Vienna group to help explain Floyd's 'Assigning meanings', Dana Scott visits.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    VIENNA, LOCATION
+    </event>
+
+    <event start="Apr 21 1969" end="Apr 25 1969" isDuration="true"
+    title="WG 2.2 meeting Vienna"
+    >
+    At a WG 2.2 (remit: semantics!) meeting in Vienna, Dana Scott and Christopher Strachey meet, presumably locking eyes across the room or something like that.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    CONFERENCE, OXFORD, DENOTATIONAL
+    </event>
+
+    <event start="Aug 28 1969"
+    title="Jones in Stanford"
+    >
+    Cliff Jones visits Stanford, probably to meet McCarthy.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    LOCATION
+    </event>
+
+    <event start="Jun 14 1967"
+    title="Jones visits Floyd"
+    >
+    Cliff Jones takes a trip to the as-yet unMellonized Carnegie Tech and meets Bob Floyd.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    LOCATION
+    </event>
+
+    <event start="Nov 26 1967" end="Dec 2 1967" isDuration="true"
+    title="MTOC at YTH"
+    >
+    Mathematical Theory of Computation conference at IBM Research Yorktown Heights Laboratory (in NY state).
+
+    The famous snow-chain occurrence.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    LOCATION?
+    </event>
+
+    <event start="April 1 1968"
+    title="Jones VDL course"
+    >
+    Cliff Jones attends a course on VDL in Vienna.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    VIENNA, OPERATIONAL, LOCATION
+    </event>
+
+    <event start="Oct 11 1969" end="Jan 17 1970" isDuration="true"
+    title="Scott in Oxford"
+    >
+    Dana Scott spends a tumultuous term in Oxford working feverishly with Christopher Strachey. The majority of denotational semantics is hashed out during this time.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    OXFORD, DENOTATIONAL
+    </event>
+
+    <event start="Apr 4 1971"
+    title="Jones in Oxford"
+    >
+    Cliff Jones travels to Oxford to hear Christopher Strachey lecture (among other dates in this period).
+    &lt;br /&gt;
+    &lt;br /&gt;
+    OXFORD, DENOTATIONAL
+    </event>
+
+    <event start="Jan 01 1971" end="Dec 31 1971" isDuration="true"
+    title="Essex meeting"
+    >
+    John Laski 'invites' Peter Lucas, Kurt Walk, Peter Lauer, and Cliff Jones to Essex. Needs a firmer time. John C. Reynolds and Peter J. Landin may also have been present there.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    VIENNA, OPERATIONAL
+    </event>
+
+    <event start="Sep 01 1978"
+    title="Sufrin joins Oxford"
+    >
+    Bernard Sufrin starts working at Oxford.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    OXFORD
+    </event>
+
+    <event start="May 18 1975"
+    title="Christopher Strachey dies"
+    >
+    Infectious hepatitis kills Christopher Strachey, probably aggravated by the stress of writing the Adams Essay.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    OXFORD
+    </event>
+
+    <event start="Nov 16 1916"
+    title="Christopher Strachey born"
+    >
+
+    &lt;br /&gt;
+    &lt;br /&gt;
+    OXFORD
+    </event>
+
+    <event start="Sep 30 1968"
+    title="ETH talk"
+    >
+    Niklaus Wirth invites Cliff to ETH to give a talk. Subject as yet undetermined.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    LOCATION, LECTURE
+    </event>
+
+    <event start="Nov 20 1968"
+    title="Bekic visits Landin"
+    >
+    Hans Beki&#269;, spending a year in QMC visiting Peter Landin, gives a fortnightly seminar on The Description of Programming Languages, starting on this date.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    LOCATION, VIENNA, LECTURE
+    </event>
+
+	<event start="Aug 1 1971" title="Toward a Mathematical Semantics for Computer Languages">
+	    Dana Scott and Christopher Strachey publish &lt;i&gt;Toward a mathematical semantics for computer languages&lt;i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Oct 1 2015" title="An Interview with Fred Brooks">
+	    Publication of Len Shustek's 'An Interview with Fred Brooks' in
+	    &lt;i&gt;Communications of the ACM&lt;i&gt; 58.11.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://dl.acm.org/citation.cfm?doid=2822519" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1973" title="Models for Various Type-Free Calculi" nomonth="true">
+	    Publication of Dana Scott's 'Models for Various Type-Free Calculi' in
+	    &lt;i&gt;Studies in Logic and Foundations of Mathematics Vol. 74 (Proc. of the
+	    4th International Congress for Logic, Methodology and Philosophy
+	    of Science, Bucharest, 1971)&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Jan 1 1971" title="The Lattice of Flow Diagrams">
+	    Publication of Dana Scott's 'The Lattice of Flow Diagrams' in
+	    &lt;i&gt;Symposium on Semantics of Algorithmic Languages&lt;i&gt; Lecture Notes in Mathematics 188.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Aug 1 1971" title="Continuous Lattices">
+	    Dana Scott publishes &lt;i&gt;Continuous Lattices&lt;i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Nov 1 1970" title="The Lattice of Flow Diagrams">
+	    Dana Scott publishes &lt;i&gt;The Lattice of Flow Diagrams&lt;i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Apr 1 2000" title="Some Reflections on Strachey and His Work">
+	    Publication of Dana Scott's 'Some reflections on Strachey and his work' in
+	    &lt;i&gt;Higher-Order and Symbolic Computation&lt;/i&gt; 13.1.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Oct 1 1969" title="A Type-Theoretical Alternative to CUCH, ISWIM, OWHY">
+	    Dana Scott completes his paper 'A Type-Theoretical Alternative to ISWIM, CUCH, OWHY'.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="May 1 1978" title="A Denotational Semantics of CLU">
+	    R. W. Scheifler publishes &lt;i&gt;A Denotational Semantics of CLU&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    DENOTATIONAL, REPORT, PUBLICATION
+	</event>
+
+	<event start="May 1 1976" title="An Architecture for an Extended Machine with Protected Addressing">
+	    G. Radin and P.R. Schneider publish &lt;i&gt;An Architecture for an Extended Machine with Protected Addressing&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Nov 1 1993" title="The Discoveries of Continuations">
+	    Publication of John C. Reynolds' 'The discoveries of continuations' in
+	    &lt;i&gt;Lisp and Symbolic Computation&lt;/i&gt; 6.3-4.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Jan 1 1963" title="Revised Report on the Algorithm Language ALGOL 60">
+	    Publication of John W. Backus, Friedrich L. Bauer, Julien Green, C. Katz, John McCarthy, Alan J. Perlis,
+	    H. Rutishauser, K. Samelson, B. Vauquois, J. H. Wegstein, Aadrian van Wijngaarden and Michael Woodger's
+	    'Revised Report on the Algorithm Language ALGOL 60' in &lt;i&gt;Communications of the ACM&lt;/i&gt; 6.1,
+	    edited by Peter Naur.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/OCRd/BBG63.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+
+	<event start="1981" title="The Early History and Characteristics of PL/I" nomonth="true">
+	    Publication of George Radin's 'The Early History and Characteristics of PL/I' in
+	    &lt;i&gt;History of Programming Languages&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Sep 1 1981" title="A Structural Approach to Operational Semantics">
+	    Gordon D. Plotkin publishes &lt;i&gt;A Structural Approach to Operational Semantics&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Sep 1 1976" title="A Powerdomain Construction">
+	    Publication of Gordon D. Plotkin's 'A Powerdomain Construction' in
+	    &lt;i&gt;SIAM Journal on Computing&lt;/i&gt; 5.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Jul 1 2004" title="The Origins of Structural Operational Semantics">
+	    Publication of Gordon D. Plotkin's 'The origins of structural operational semantics' in
+	    &lt;i&gt;Journal of Logic and Algebraic Programming&lt;/i&gt; 60-61.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://www.journals.elsevier.com/the-journal-of-logic-and-algebraic-programming" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="2004" title="A Structural Approach to Operational Semantics">
+	    Republication of Gordon D. Plotkin's 'A structural approach to operational semantics' in
+	    &lt;i&gt;Journal of Logic and Algebraic Programming&lt;/i&gt; 60-61.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://www.journals.elsevier.com/the-journal-of-logic-and-algebraic-programming" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Sep 1 1981" title="A Structural Approach to Operational Semantics">
+	    Gordon D. Plotkin publishes &lt;i&gt;A structural approach to operational semantics&lt;/i&gt;
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Aug 1 1981" title="The American Side of the Development of ALGOL">
+	    Publication of Alan J. Perlis' 'The American Side of the Development of ALGOL' in
+	    &lt;i&gt;History of Programming Languages&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Apr 1 2000" title="Reminiscences of Christopher Strachey">
+	    Publication of Roger Penrose's 'Reminiscences of Christopher Strachey' in
+	    &lt;i&gt;Higher-Order and Symbolic Computation&lt;/i&gt; 13.1.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Aug 1 1967" title="Equivalence Problems in a Model of Computation">
+	    M. S. Paterson completes his PhD thesis 'Equivalence Problems in a Model of Computation'.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    THESIS
+	</event>
+
+	<event start="1981" title="The European Side of the Last Phase of the Development of AlGOL 60" nomonth="true">
+	    Publication of Peter Naur's 'The European side of the last page of the development of ALGOL 60' in
+	    &lt;i&gt;History of Programming Languages&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Dec 1 1982" title="Formalization in Program Development">
+	    Publication of Peter Naur's 'Formalization in program development' in
+	    &lt;i&gt;BIT Numerical Mathematics&lt;/i&gt; 22.4.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://link.springer.com/article/10.1007%2FBF01934408" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Nov 1 2014" title="FunKons: Component Based Semantics in K">
+	    Publication of Peter D. Mosses and Ferdinand Vesely's 'FunKons: Component based semantics in K' in
+	    &lt;i&gt;Rewriting Logic and Its Applications&lt;i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1990" title="The Definition of Standard ML" nomonth="true">
+	    Robin Milner, Mads Tofte and Robert Harper publish &lt;i&gt;The Definition of Standard ML&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="1976" title="A Theory of Programming Language Semantics. Part A..." nomonth="true">
+	    R. Milne and Christopher Strachey publish &lt;i&gt;A Theory of Programming Language Semantics&lt;/i&gt;.
+	    Part A: Indices and Appendices, Fundamental Concepts and Mathematical Foundations.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="1976" title="A Theory of Programming Language Semantics. Part B..." nomonth="true">
+	    Robert Milne and Christopher Strachey publish &lt;i&gt;A Theory of Programming Language Semantics&lt;/i&gt;.
+	    Part B: Standard Semantics, Store Semantics and Stack Semantics.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="Dec 1 1974" title="A Theory of Programming Language Semantics">
+	    R. Milne and Christopher Strachey publish &lt;i&gt;A Theory of Programming Language Semantics&lt;/i&gt; as
+	    an essay submitted for the Adams Prize.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Apr 1 1975" title="Mathematical Semantics and Compiler Generation">
+	    Peter D. Mosses completes his PhD thesis 'Mathematical Semantics and Compiler Generation'.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    THESIS
+	</event>
+
+	<event start="Jan 1 1974" title="The Mathematical Semantics of ALGOL 60">
+	    Peter D. Mosses publishes &lt;i&gt;The Mathematical Semantics of ALGOL 60&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/OCRd/Mosses74.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Mar 1 2011" title="VDM Semantics of Programming Languages: Cominators and Monads">
+	    Publication of Peter D. Mosses' 'VDM semantics of programming languages: combinators and monads' in
+	    &lt;i&gt;Formal Aspects of Computing&lt;/i&gt; 23.2.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://link.springer.com/article/10.1007%2Fs00165-009-0145-4" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Feb 1 2005" title="Action Semantics">
+	    Peter D. Mosses publishes &lt;i&gt;Action Semantics&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="Dec 1 2004" title="Modular Structural Operational Semantics">
+	    Publication of Peter D Mosses' 'Modular structural operational semantics' in
+	    &lt;i&gt;The Journal of Logic and Algebraic Programming&lt;/i&gt; 60.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Apr 1 1989" title="An Abstract View of Programming Languages">
+	    Eugenio Moggi publishes &lt;i&gt;An Abstract View of Programming Languages&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="1974" title="The Formal Semantics of Computer Languages and their Implementation" nomonth="true">
+	    R. E. Milne completes his PhD thesis 'The Formal Semantics of Computer Languages and their Implementation'.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    THESIS
+	</event>
+
+	<event start="Jan 1 1976" title="A Supplement to the ALGOL 60 Revised Report">
+	    Publication of R. M. de Morgan, I. D. Hill and B. A. Wichmann's 'A supplement to the ALGOL 60 Revised Report' in
+	    &lt;i&gt;The Computer Journal&lt;i&gt; 19.3.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1966" title="A Formal Description of a Subset of ALGOL" nomonth="true">
+	    Publication of John McCarthy's 'A formal description of a subset of ALGOL' in
+	    &lt;i&gt;Formal Language Description Languages for Computer Programming&lt;i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1962" title="Towards a Mathematical Science of Computation" nomonth="true">
+	    Publication of John McCarthy's 'Towards a Mathematical Science of Computation' in
+	    &lt;i&gt;IFIP Congress&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1969" title="On the Formal Description of PL/I" nomonth="true">
+	    Publication of Peter Lucas and Kurt Walk's 'On the formal description of PL/I' in
+	    &lt;i&gt;Annual Review in Automatic Programming&lt;/i&gt; 6.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Sep 1 1981" title="Formal Semantics of Programming Languages: VDL">
+	    Publication of Peter Lucas' 'Formal Semantics of Programming Languages: VDL' in
+	    &lt;i&gt;IBM Journal of Research and Development&lt;/i&gt; 25.5.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Jun 28 1968" title="Two Constructive Realisations of the Block Concept and their Equivalence">
+	    Peter Lucas publishes &lt;i&gt;Two constructive realisations of the block concept and their equivalence&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Jun 1 1970" title="On Formalised Computer Programs">
+	    Publication of D. C. Luckham, David M. R. Park and M. S. Paterson's 'On Formalised Computer Programs' in
+	    &lt;i&gt;Journal of Computer and System Sciences&lt;/i&gt; 4.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Feb 1 1972" title="The Formal Definition of the BASIC Language">
+	    Publication of John A. N. Lee's 'The formal definition of the BASIC language' in
+	    &lt;i&gt;The Computer Journal&lt;/i&gt; 15.1.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Aug 1 1969" title="The Vienna Definition Language, a Generalization of Instruction Definitions">
+	    Publication of John A. N. Lee and W. Delmore's 'The Vienna Definition Language, a generalization of instruction definitions' in
+	    &lt;i&gt;SIGPLAN Symposium on Programming Language Definitions, San Francisco&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Mar 31 1996" title="Homepage of Peter E. Lauer">
+	    Peter E. Lauer publishes &lt;i&gt;Homepage of Peter E. Lauer&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://www.cas.mcmaster.ca/~lauer/php.html" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    HOMEPAGE, WEBSITE, PUBLICATION
+	</event>
+
+	<event start="Nov 14 1971" title="Consistent Formal Theories of the Semantics of Programming Languages">
+	    Peter E. Lauer's PhD thesis 'Consistent Formal Theories of the Semantics of Programming Languages'
+	    is published by IBM Laboratory Vienna as TR 25.121.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    THESIS, REPORT, PUBLICATION
+	</event>
+
+	<event start="Dec 13 1968" title="Formal Definition of ALGOL 60">
+	    Peter E. Lauer publishes &lt;i&gt;Formal definition of ALGOL 60&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/OCRd/Lau68.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="1967" title="The Formal Explicates of the Notion of Algorithm...">
+	    Peter E. Lauer publishes &lt;i&gt;The formal explicates of the notion of algorithm: an introduction to the theory of computability with special emphasis
+	    on the various formalisms underlying the alternate explicates&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="1966" title="A Formal Description of ALGOL 60" nomonth="true">
+	    Publication of Peter J. Landin's 'A formal description of ALGOL 60' in &lt;i&gt;Formal Language Description Languages for Computer Programming&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Feb 1 1965" title="A Correspondence Between ALGOL 60 and Church’s Lambda-notations: Part I">
+	    Publication of Peter J. Landin's 'A Correspondence Between ALGOL 60 and Church’s Lambda-notations: Part I' in
+	    &lt;i&gt;Communications of the ACM&lt;/i&gt; 8.2.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://dl.acm.org/citation.cfm?doid=363744.363749" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Mar 1 1965" title="A Correspondence Between ALGOL 60 and Church’s Lambda-notations: Part II">
+	    Publication of Peter J. Landin's 'A Correspondence Between ALGOL 60 and Church’s Lambda-notations: Part II' in
+	    &lt;i&gt;Communications of the ACM&lt;/i&gt; 8.3.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://dl.acm.org/citation.cfm?doid=363791.363804" title="View Online"&gt;here&lt;/a&gt;.
+
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Jan 1 1964" title="The Mechanical Evaluation of Expressions">
+	    Publication of Peter J. Landin's 'The mechanical evaluation of expressions' in
+	    &lt;i&gt;The Computer Journal&lt;i&gt; 6.4.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Dec 1 1964" title="Backus Normal Form vs. Backus Naur Form">
+	    Publication of Donald E. Knuth's 'Backus Normal Form vs. Backus Naur Form' in
+	    &lt;i&gt;Communications of the ACM&lt;i&gt; 7.12.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://dl.acm.org/citation.cfm?doid=355588.365140" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Feb 1 1971" title="Notes on Avoiding &quot;Go To&quot; Statements">
+	    Publication of Donald E. Knuth and Robert W. Floyd's 'Notes on avoiding "go to" statements' in
+	    &lt;i&gt;Information Processing Letters&lt;/i&gt; 1.1.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Sep 1 1999" title="Scientific Decisions which Characterize VDM">
+	    Publication of Cliff B. Jones' 'Scientific Decisions which Characterize VDM' in &lt;i&gt;FM’99 – Formal Methods&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1982" title="More on Exception Mechanisms" nomonth="true">
+	    Publication of Cliff B. Jones' 'More on Exception Mechanisms' in &lt;i&gt;Formal Specification and Software Development&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/BjornerJones1982/Chapter-5.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1978" title="Denotational Semantics of Goto: An Exit Formulation and its Relation to Continuations" nomonth="true">
+	    Publication of Cliff B. Jones' 'Denotational Semantics of Goto: An Exit Formulation and its Relation to Continuations' in
+	    &lt;i&gt;The Vienna Development Method: The Meta-Language&lt;i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Feb 16 1976" title="Formal Definition in Compiler Development">
+	    Cliff B. Jones publishes &lt;i&gt;Formal Definition in Compiler Development&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Feb 1 1969" title="A Comparison of Two Approaches to Language Definition as Bases for the Construction of Proofs">
+	    Cliff B. Jones publishes &lt;i&gt;A Comparison of Two Approaches to Language Definition as Bases for the Construction of Proofs&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Apr 1 2003" title="The Early Search for Tractable Ways of Reasoning about Programs">
+	    Publication of Cliff B. Jones' 'The Early Search for Tractable Ways of Reasoning about Programs' in
+	    &lt;i&gt;IEEE Annals of the History of Computing&lt;i&gt; 25.2.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1971" title="Proving Correctness of Implementation Techniques" nomonth="true">
+	    Publication of Cliff B. Jones and Peter Lucas' 'Proving Correctness of Implementation Techniques' in
+	    &lt;i&gt;A Symposium on Algorithmic Languages&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Feb 21 1975" title="On a Consistency Proof of a Chapter of a Formal Definition of a PL/I Subset">
+	    H. Izbicki publishes &lt;i&gt;On a Consistency Proof of a Chapter of a Formal Definition of a PL/I Subset&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Nov 1 1980" title="Formal Definition of the Ada Programming Language">
+	    The French Institute for Research in Computer Science and Automation (INRIA) publishes
+	    &lt;i&gt;Formal Definition of the Ada Programming Language&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Dec 1 1973" title="An Axiomatic Definition of the Programming Language PASCAL">
+	    Publication of C. A. R. Hoare and N. Wirth's 'An axiomatic definition of the programming language PASCAL' in
+	    &lt;i&gt;Acta Informatica&lt;/i&gt; 2.4.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    AXIOMATIC, PAPER, PUBLICATION
+	</event>
+
+	<event start="Dec 1 2014" title="On the Origin of Recursive Procedures">
+	    Publication of Gauthier van den Hove's 'On the Origin of Recursive Procedures' in &lt;i&gt;The Computer Journal&lt;i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Dec 1 1973" title="Hints on Programming Language Design">
+	    C. A. R. Hoare publishes &lt;i&gt;Hints on Programming Language Design&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="Aug 1 2011" title="Concurrent Kleene Algebra and its Foundations">
+	    Publication of C. A. R. Hoare, B. Moller, G. Struth and I. Wehrman's 'Concurrent Kleene Algebra and its Foundations' in
+	    &lt;i&gt;The Journal of Logic and Algebraic Programming&lt;/i&gt; 80.6.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="2009" title="Concurrent Kleene Algebra" nomonth="true">
+	    Publication of C. A. R. Hoare, B. Moller, G. Struth and I. Wehrman's 'Concurrent Kleene Algebra' in
+	    &lt;i&gt;CONCUR 2009 - Concurrency Theory&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1988" title="The Turing Programming Language: Design and Defintion" nomonth="true">
+	    Richard C. Holt, Philip A. Matthews, J. Alan Rosselet and James R. Cordy publish &lt;i&gt;The Turing Programming Language: Design and Defintion&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="1982" title="ALGOL 60" nomonth="true">
+	    Publication of Wolfgang Henhapl and Cliff B. Jones' 'ALGOL 60' in &lt;i&gt;Formal Specification and Software Development&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/OCRd/HJ82.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1978" title="A Formal Definition of ALGOL 60 as Described in the 1975 Modified Report" nomonth="true">
+	    Publication of Wolfgang Henhapl and Cliff B. Jones' 'A Formal Definition of ALGOL 60 as Described in the 1975 Modified Report' in
+	    &lt;i&gt;The Vienna Development Method: The Meta-Language&lt;i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/OCRd/HJ82.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Apr 3 1970" title="The Block Concept and Some Possible Implementations, with Proofs of Equivalence">
+	    Wolfgang Henhapl and Cliff B. Jones publish &lt;i&gt;The Block Concept and Some Possible Implementations, with Proofs of Equivalence&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Mar 1 1970" title="On the Interpretation of GOTO Statements in the ULD">
+	    Wolfgang Henhapl and Cliff B. Jones publish &lt;i&gt;On the Interpretation of GOTO Statements in the ULD&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="1973" title="A Universal Modular Actor Formalism for Artificial Intelligence" nomonth="true">
+	    Publication of Carl Hewitt, Peter Bishop and Richard Steiger's 'A universal modular actor formalism for artificial intelligence' in
+	    &lt;i&gt;Proceedings of the 3rd international joint conference on Artificial intelligence&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1980" title="A Formal Definition of CHILL. A Supplement to the CCITT Recommendation Z. 200" nomonth="true">
+	    P. Haff and Dines Bjørner publish &lt;i&gt;A Formal Definition of CHILL. A Supplement to the CCITT Recommendation Z. 200&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Jun 1 1976" title="A Formal Definition of a Relational Database System">
+	    A. Hansal publishes &lt;i&gt;A Formal Definition of a Relational Database System&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Dec 7 2006" title="Oral History of Richard Case">
+	    Burton Grad publishes &lt;i&gt;Oral History of Richard Case&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://archive.computerhistory.org/resources/text/Oral_History/Case_Richard/Case_Richard_1.oral_history.2006.102658006.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    INTERVIEW, TRANSCRIPT, PUBLICATION
+	</event>
+
+	<event start="Sep 1 1962" title="On the Nonexistence of a Phrase Structure Grammar for ALGOL 60">
+	    Publication of Robert W. Floyd's 'On the nonexistence of a phrase structure grammar for ALGOL 60' in &lt;i&gt;Communications of the ACM&lt;/i&gt; 5.9.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://dl.acm.org/citation.cfm?doid=368834.368898" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Apr 1 1987" title="Formal Definition of the Design Language COLD-K">
+	    L. M. G. Feijs and H. B. M. Jonkers publish &lt;i&gt;Formal Definition of the Design Language COLD-K&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="June 1 2015" title="In Memoriam Heinz Zemanek">
+	    &lt;i&gt;In memoriam Heinz Zemanek&lt;/i&gt; is published by the Austrian Computer Society (Österreichische Computer Gesellschaft - OCG), edited by Karl Anton Froschl, Gerhard Chroust, and Johann Stockinger.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="1971" title="Symposium on Semantics of Algorithmic Languages" nomonth="true">
+	    The proceedings of the 1971 &lt;i&gt;Symposium on Semantics of Algorithmic Languages&lt;/i&gt; are published by Springer-Verlag, edited by E. Engeler.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    CONFERENCE, PROCEEDINGS, PUBLICATION
+	</event>
+
+	<event start="Oct 1 2013" title="Early Language and Compiler Developments at IBM Europe: A Personal Retrospection">
+	    Publication of Albert Endres' 'Early language and compiler developments at IBM Europe: A personal retrospection' in &lt;i&gt;IEEE Annals of the History of Computing&lt;/i&gt;35.4.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1965" title="Standard ECMA-2 for a Subset of ALGOL">
+	    European Computer Manufacturers' Association (ECMA) publishes &lt;i&gt;Standard ECMA-2 for a Subset of ALGOL&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="1966" title="Our Ultimate Metalanguage: An Afterdinner Talk" nomonth="true">
+	    Publication of Fraser G. Duncan's 'Our ultimate metalanguage: an afterdinner talk' in &lt;i&gt;Formal Language Description Languages for Computer Programming&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/FLDL/pdf/FLDL-20-Duncan-After_Dinner_Talk_Our_Ultimate_Metalanguage.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="Oct 1 1963" title="ECMA Subset of ALGOL 60">
+	    Publication of Fraser G. Duncan's 'ECMA Subset of ALGOL 60' in &lt;i&gt;Communications of the ACM&lt;/i&gt; 6.10.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1976" title="Complementary Definitions of Programming Language Semantics" nomonth="true">
+	    James Edward Donahue publishes &lt;i&gt;Complementary Definitions of Programming Language Semantics&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="Mar 1 1968" title="Letters to the Editor: Go To Statement Considered Harmful">
+	    Publication of Edsger W. Dijkstra's 'Letters to the editor: go to statement considered harmful' in &lt;i&gt;Communications of the ACM&lt;/i&gt; 11.3.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://dl.acm.org/citation.cfm?doid=362929.362947" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1980" title="On the Formal Definition of ADA" nomonth="true">
+	    Publication of Veronique Donzeau-Gouge, Gilles Kahn, and Bernard Lang's 'On the formal definition of ADA' in &lt;i&gt;Semantics-Directed Compiler Generation&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Jan 1 1985" title="Christopher Strachey, 1916–1975: A Biographical Note">
+	    Publication of Martin Campbell-Kelley's 'Christopher Strachey, 1916–1975: A Biographical Note' in &lt;i&gt;Annals of the History of Computing&lt;/i&gt; 7.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Jan 1 1970" title="Formal Description of Program Structure and Semantics in First Order Logic">
+	    Publication of Rod M. Burstall's 'Formal description of program structure and semantics in first order logic' in &lt;i&gt;Machine Intelligence&lt;/i&gt; 5.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1980" title="Towards a Formal Description of Ada" nomonth="true">
+	    Dines Bjørner and Ole Nybye Oest publish &lt;i&gt;Towards a Formal Description of Ada&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1984" title="Programming Languages and Their Definition: Selected Papers of H. Beki&#269;" nomonth="true">
+	    &lt;i&gt;Programming Languages and Their Definition: Selected Papers of H. Beki&#269;&lt;/i&gt; is published by Springer-Verlag, edited by Hans Beki&#269; and Cliff B. Jones.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://link.springer.com/book/10.1007%2FBFb0048933" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="1982" title="Formal Specification and Software Development" nomonth="true">
+	    &lt;i&gt;Formal Specification and Software Development&lt;/i&gt; is published by Prentice Hall International, edited by Dines Bjørner and Cliff B. Jones.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/BjornerJones1982/" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="1978" title="The Vienna Development Method: The Meta-Language" nomonth="true">
+	    &lt;i&gt;The Vienna Development Method: The Meta-Language&lt;/i&gt; is published by Springer-Verlag, edited by Dines Bjørner and Cliff B. Jones.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://link.springer.com/book/10.1007%2F3-540-08766-4" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PUBLICATION
+	</event>
+
+	<event start="Dec 1 1975" title="Some Experiments with Using a Formal Language Definition in Compiler Development">
+	    Hans Beki&#269;, H. Izbicki, Cliff B. Jones and F. Weissenb&#246;ck publish &lt;i&gt;Some Experiments with Using a Formal Language Definition in Compiler Development&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Dec 17 1971" title="Towards a Mathematical Theory of Processes">
+	    Hans Beki&#269; publishes &lt;i&gt;Towards a Mathematical Theory of Processes&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/LNCS177-Bekic/Bekic5.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Dec 22 1964" title="Defining a Language in its Own Terms">
+	    Hans Beki&#269; publishes &lt;i&gt;Defining a Language in its Own Terms&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Aug 1 1963" title="The Main Features of CPL">
+	    Publication of D. W. Barron, J. N. Buxton, D. F. Hartley and Christopher Strachey's 'The Main Features of CPL' in
+	    &lt;i&gt;Computer Journal&lt;/i&gt; 6.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Dec 20 1974" title="A Formal Definition of a PL/I Subset">
+	    Hans Beki&#269;, Dines Bjørner, Wolfgang Henhapl, Cliff B. Jones and Peter Lucas publish
+	    &lt;i&gt;A Formal Definition of a PL/I Subset&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/TR25139/" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Jul 30 1965" title="Tentative Steps Towards a Formal Description of PL/I">
+	    Kurt Bandat publishes &lt;i&gt;Tentative Steps Towards a Formal Description of PL/I&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="1965" title="Formal Definition of Algorithmic Languages" nomonth="true">
+	    J. W. de Bakker publishes &lt;i&gt;Formal Definition of Algorithmic Languages, with an application to the
+	    defintion of ALGOL 60&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Aug 9 1976" title="Programming Language PL/1">
+	    American National Standards Institute (ANSI) publishes &lt;i&gt;Programming Language PL/I&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Jan 1 1997" title="A Foundation for Actor Computation">
+	    Publication of Gul A Agha, Ian A Mason, Scott F Smith, and Carolyn L Talcott's 'A Foundation for Actor Computation' in
+	    &lt;i&gt;Journal of Functional Programming&lt;/i&gt; 7.01.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Dec 1 1960" title="Report on the Algorithmic Language ALGOL 60">
+	    Publication of John W. Backus, Friedrich L. Bauer, Julien. Green, C Katz, John McCarthy, Peter Naur, Alan J. Perlis, H Rutishauser, K Samelson, B Vauquois, et al's
+	    'Report on the algorithmic language ALGOL 60' in &lt;i&gt;Numerische Mathematik&lt;/i&gt; 2.1.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Feb 11 2004" title="The ALGOL Bulletin">
+	    Final release of Brian Wichmann's reproducation of &lt;i&gt;The ALGOL Bulletin&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://archive.computerhistory.org/resources/text/algol/algol_bulletin/" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    WEBSITE, PUBLICATION
+	</event>
+
+	<event start="1982" title="Pascal" nomonth="true">
+	    Publication of Derek Andrews and Wolfgang Henhapl's 'Pascal' in &lt;i&gt;Formal Specification and Software Development&lt;/i&gt;, edited by Dines Bjørner and Cliff B. Jones.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/BjornerJones1982/Chapter-7.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="1988" title="The Formal Definition of Modula-2" nomonth="true">
+	    Publication of D.J. Andrews, A. Garg, S.P.A. Lau and J.R. Pitchers' 'The formal definition of Modula-2 and its associated interpreter' in &lt;i&gt;VDM '88 VDM - The Way Ahead&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    PAPER, PUBLICATION
+	</event>
+
+	<event start="Aug 1 1972" title="A Formal Definition of ALGOL 60">
+	    C. D. Allen, D. N. Chapman and Cliff B. Jones publish &lt;i&gt;A Formal Definition of ALGOL 60&lt;/i&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    Available &lt;a href="http://homepages.cs.ncl.ac.uk/cliff.jones/publications/TR12.105.pdf" title="View Online"&gt;here&lt;/a&gt;.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    REPORT, PUBLICATION
+	</event>
+
+	<event start="Dec 1 1987" title="Operational and Denotational Semantics of Prolog">
+	    Publication of Bijan Arbab and Daniel M Berry's 'Operational and denotational semantics of prolog' in &lt;i&gt;The Journal of Logic Programming&lt;/i&gt; 4.4.
+
+	    &lt;br /&gt;
+	    &lt;br /&gt;
+
+	    OPERATIONAL, DENOTATIONAL, PAPER, PUBLICATION
+	</event>
+
+	<event start="Dec 6 1964" title="Vienna Lab founded">
+		Founding of Vienna Laboratory as an IBM Research facility.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		VIENNA, LOCATION
+	</event>
+
+	<event start="Sep 3 1961" title="Vienna Science Group started">
+		An IBM Science Group was established, with Zemanek as the leader, which reported directly to Boeblingen.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		VIENNA, LOCATION
+	</event>
+
+	<event start="Oct 10 1964" title="Corporate technical plans on language definition">
+		An IBM internal memo discusses some motivations for programming language definition work,
+		particularly PL/I.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		VIENNA, HURSLEY, MEMO, CONFIDENTIAL
+	</event>
+
+	<event start="Sep 10 1965" title="Plan for development of formal definition of PL/I">
+		An IBM internal memo shows some of the earliest steps towards the plan for a formal definition of PL/I.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		VIENNA, HURSLEY, MEMO
+	</event>
+
+	<event start="Oct 5 1965" title="Meeting between Hursley and Vienna">
+		A meeting takes place between Hursley and Vienna to discuss the development of an unambiguous definition of PL/I.
+		The meeting is chaired by Kurt Bandat of Vienna.
+		The minutes of the meeting are circulated as a memo a few days later.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		VIENNA, HURSLEY, MEETING
+	</event>
+
+	<event start="Feb 28 1967" title="ULD-3 and Language Development">
+		An IBM internal memo describes the reactions of some of the management in Language Development to the new ULD-3 definition method.
+		These reactions are not positive.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		VIENNA, MEMO
+	</event>
+
+	<event start="March 8 1967" title="Further Vienna PL/I activity">
+		An IBM internal memo dates the plans to produce a second version of ULD-3.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		VIENNA, MEMO
+	</event>
+
+	<event start="March 28 1967" title="Formal definition of PL/I">
+		An IBM internal memo from George Radin includes some criticism of the ULD approach.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		VIENNA, MEMO
+	</event>
+
+	<event start="Apr 28 1967" title="ULD-3 interpreter">
+		An IBM internal memo from Dave Allen to John Nicholls about the state of the ULD project
+		following a workshop on the subject.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		VIENNA, MEMO
+	</event>
+
+	<event start="Jul 1 1967" title="Review of the formal definition of PL/I">
+		A document sent by Zemanek to attendees of a review workshop of ULD.
+		It is typically self-aggrandising and emphasises the importance of the ULD work.
+
+		&lt;br /&gt;
+		&lt;br /&gt;
+
+		VIENNA, MEMO
+	</event>
+
+</data>

@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <title>Timeline</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript"></script>
+    <link rel='stylesheet' href='styles.css' type='text/css' />
+    <script src="examples.js" type="text/javascript"></script>
+  </head>
+  <body onload="onLoad();">
+    <div id="content">
+
+      <h1>Timeline</h1>
+
+      <div id="tl" class="timeline-default" style="height: 450px;"></div>
+
+      <noscript>
+      This page uses Javascript to show you a Timeline. Please enable Javascript in your browser to see the full page. Thank you.
+      </noscript>
+
+      <script lang="javascript">
+      var tl;
+        function onLoad() {
+        var eventSource = new Timeline.DefaultEventSource();
+
+        //STUFF IMPORTED FROM JEWISH HERE//
+
+        var theme = Timeline.ClassicTheme.create();
+        // demonstrate highlighting of labels (in addition to icons and tapes)
+        theme.event.highlightLabelBackground = true;
+        theme.event.bubble.width = 320;
+
+       var zones = [
+         // TOP STRIP. FOR ZOOMED IN TIME PERIODS
+            /*{   start:    "1900",
+                end:      "2050",
+                magnify:  10,
+                unit:     Timeline.DateTime.YEAR
+            },
+            {   start:    "1800",
+                end:      "2100",
+                magnify:  3,
+                unit:     Timeline.DateTime.YEAR,
+                multiple: 5
+            }*/
+        ];
+        var zones2 = [
+          // BOTTOM STRIP. FOR ZOOMED IN TIME PERIODS.
+            /*{   start:    "1900",
+                end:      "2050",
+                magnify:  5,
+                unit:     Timeline.DateTime.DECADE
+            },
+            {   start:    "1800",
+                end:      "2100",
+                magnify:  3,
+                unit:     Timeline.DateTime.YEAR,
+                multiple: 10
+            }*/
+        ];
+
+        var d = Timeline.DateTime.parseGregorianDateTime("1970");
+        var bandInfos = [
+            Timeline.createHotZoneBandInfo({
+                width:          "75%",
+                intervalUnit:   Timeline.DateTime.YEAR,
+                intervalPixels: 250,
+                zones:          zones,
+                eventSource:    eventSource,
+                date:           d,
+                timeZone:       01,
+                theme:          theme
+            }),
+            Timeline.createHotZoneBandInfo({
+                width:          "25%",
+                intervalUnit:   Timeline.DateTime.DECADE,
+                intervalPixels: 200,
+                zones:          zones2,
+                eventSource:    eventSource,
+                date:           d,
+                overview:       true,
+                theme:          theme
+            })
+        ];
+
+        bandInfos[1].syncWith = 0;
+        bandInfos[1].highlight = true;
+
+        tl = Timeline.create(document.getElementById("tl"), bandInfos);
+        Timeline.loadXML("local_events.xml", function(xml, url) { eventSource.loadXML(xml, url); });
+
+        setupFilterHighlightControls(document.getElementById("controls"), tl, [0,1], theme);
+
+      }
+
+      function centerTimeline(year) {
+          tl.getBand(0).setCenterVisibleDate(new Date(year, 0, 1));
+      }
+      </script>
+    <div class="controls" id="controls">
+
+		<table>
+			<tr><td></td></tr>
+			<tr><td><button onclick="centerTimeline(1970)">Center timeline</button></td></tr>
+		</table>
+
+	</div>
+
+    </div>
+  </body>
+</html>

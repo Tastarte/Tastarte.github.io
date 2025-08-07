@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Student house checker</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="description" content="" />
+    <script>
+        function validateForm(f) {
+            if (f == "") {
+                alert("Name must be filled out");
+                return false;
+            }
+        }
+
+        function validateForm() {
+            let input = document.forms["houseForm"]["stdNoInput"].value;
+            validateForm(input);
+        }
+    </script>
+</head>
+<body>
+    <h1>Student house checker</h1>
+    <form name="houseForm" action="" onsubmit="return processForm()" method="post">
+        Student number: <input type="number" name="stdNoInput">
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

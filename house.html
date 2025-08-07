@@ -1,0 +1,1677 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Student house checker</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="description" content="" />
+    <script>
+        houseData = [
+          {
+            "stdno": 702055,
+            "house": "Turing"
+          },
+          {
+            "stdno": 850649,
+            "house": "Turing"
+          },
+          {
+            "stdno": 850730,
+            "house": "Turing"
+          },
+          {
+            "stdno": 851289,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 851632,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 853178,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 853273,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 853846,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 854208,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 856843,
+            "house": "Turing"
+          },
+          {
+            "stdno": 857430,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 857633,
+            "house": "Turing"
+          },
+          {
+            "stdno": 864906,
+            "house": "Turing"
+          },
+          {
+            "stdno": 911269,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 967558,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 975535,
+            "house": "Turing"
+          },
+          {
+            "stdno": 980732,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 983793,
+            "house": "Turing"
+          },
+          {
+            "stdno": 986488,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 989623,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 991645,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 1904822,
+            "house": "Turing"
+          },
+          {
+            "stdno": 1906237,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 1908594,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 1908745,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 1909457,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 1909791,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 1909879,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 1910377,
+            "house": "Turing"
+          },
+          {
+            "stdno": 1910724,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 1910767,
+            "house": "Turing"
+          },
+          {
+            "stdno": 1911504,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 1911898,
+            "house": "Turing"
+          },
+          {
+            "stdno": 1912214,
+            "house": "Turing"
+          },
+          {
+            "stdno": 1912355,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 1913695,
+            "house": "Turing"
+          },
+          {
+            "stdno": 1913827,
+            "house": "Turing"
+          },
+          {
+            "stdno": 1913893,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2005274,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2005492,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2005908,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2006155,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2006974,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2007475,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2007484,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2007906,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2008351,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2008715,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2009026,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2009167,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2009170,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2009257,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2009555,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2009935,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2010063,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2010120,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2011122,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2011144,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2011436,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2011498,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2011867,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2012007,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2012105,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2012395,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2012529,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2012988,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2013404,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2013424,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2013507,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2013509,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2013558,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2013717,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2013725,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2013744,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2014081,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2014746,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2015083,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2015273,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2015289,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2015385,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2015452,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2015742,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2016522,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2016847,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2016928,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2016944,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2017161,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2017199,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2017302,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2017659,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2018073,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2018181,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2018577,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2018590,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2019005,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2019777,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2019834,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2020451,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2023769,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2027703,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2029641,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2031579,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2033278,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2033774,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2033905,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2034215,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2034533,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2034600,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2034629,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2034737,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2034852,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2034894,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2034969,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2035108,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2035454,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2035666,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2035714,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2035822,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2035827,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2036044,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2036246,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2036581,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2036722,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2037344,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2037932,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2037957,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2038106,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2038939,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2038980,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2039129,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2039604,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2041054,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2042477,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2042566,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2042625,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2042658,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2042886,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2044503,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2044616,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2044639,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2044811,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2100931,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2103188,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2103879,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2104980,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2105062,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2105361,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2105531,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2105646,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2106545,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2106607,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2106866,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2106998,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2107225,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2107376,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2107830,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2107922,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2107969,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2107996,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2108045,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2108162,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2108255,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2108500,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2108516,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2108602,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2108775,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2108891,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2108955,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2109061,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2109428,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2109629,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2110015,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2110019,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2110119,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2110283,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2110329,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2110370,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2110663,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2110735,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2110758,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2110983,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2111466,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2111596,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2111694,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2111703,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2111707,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2111920,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2112100,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2112169,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2112177,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2112187,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2112325,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2112438,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2112486,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2112505,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2112519,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2112615,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2112618,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2112632,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2112633,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2112711,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2112732,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2112846,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2112954,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2113079,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2113220,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2113297,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2113331,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2113411,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2113414,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2113823,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2114095,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2114099,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2114117,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2114214,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2114414,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2114449,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2114699,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2114730,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2114861,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2114899,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2114962,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2115020,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2115057,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2115188,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2115286,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2115401,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2115835,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2115971,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2115973,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2115990,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2116119,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2116421,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2116503,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2116818,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2116876,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2116964,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2117581,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2117679,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2117781,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2117876,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2117937,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2118116,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2118176,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2118180,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2118217,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2118519,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2118648,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2118898,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2118928,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2118936,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2119091,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2119270,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2119504,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2119531,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2119614,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2119629,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2119764,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2119840,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2119849,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2119924,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2120008,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2120072,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2120303,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2120404,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2120408,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2120686,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2120714,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2121014,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2121041,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2121047,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2121108,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2121137,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2121428,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2121465,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2121497,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2121498,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2121504,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2121518,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2121753,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2122093,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2122203,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2122392,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2122455,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2122485,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2122492,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2122582,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2122841,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2122851,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2122860,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2122983,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2123087,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2123332,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2123463,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2123494,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2123512,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2123712,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2123937,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2123959,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2124003,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2124359,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2124415,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2124446,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2124496,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2124594,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2124643,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2124709,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2124719,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2124746,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2124755,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2124771,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2125576,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2125704,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2126248,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2127811,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2128140,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2128262,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2128578,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2128613,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2128618,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2130288,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2131153,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2131794,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2133241,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2135313,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2136300,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2136773,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2137681,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2137906,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2138482,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2138723,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2138868,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2138872,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2138940,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2138947,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2139049,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2139348,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2139367,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2139455,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2139530,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2139818,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2139873,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2139941,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2140043,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2141570,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2141648,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2141679,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2141682,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2141684,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2141714,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2141735,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2141736,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2141891,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2141949,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2141976,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2142002,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2142005,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2142019,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2142050,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2142124,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2142214,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2142255,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2142265,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2142303,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2142392,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2142479,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2142563,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2142569,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2142637,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2142666,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2142686,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2142776,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2142932,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2142999,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2143007,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2143097,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2143150,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2143267,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2143321,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2143430,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2143439,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2143609,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2143929,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2143975,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2144034,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2144046,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2144072,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2144243,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2144460,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2144707,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2145027,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2145032,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2145404,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2145439,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2145540,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2146347,
+            "house": "Turing"
+          },
+          {
+            "stdno": 2146496,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2147145,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2147207,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2147826,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2147876,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2149389,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2149459,
+            "house": "Lovelace"
+          },
+          {
+            "stdno": 2149606,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2150142,
+            "house": "Babbage"
+          },
+          {
+            "stdno": 2145404,
+            "house": "Lovelace"
+          }
+        ]
+        // console.log(houseData[0]);
+
+
+        function processForm() {
+            let input = document.getElementById("stdNoInput").value;
+                // alert("Entered: " + input);
+                var found = false;
+
+                var __FOUND = houseData.find(function(post, index) {
+                   if(post.stdno == input) {
+                       found = true;
+                       return true;
+                   }
+                });
+
+                if (found) {
+                    // alert("Student number " + input + " is in house " + __FOUND.house);
+                    document.getElementById("foundNo").innerHTML = input;
+                    document.getElementById("foundHouse").innerHTML = __FOUND.house;
+                } else {
+                    alert("Student number " + input + " was not found. Check and try again.");
+                }
+
+                console.log(__FOUND);
+        }
+
+        function clearForm() {
+            document.getElementById("stdNoInput").value = "";
+            document.getElementById("foundNo").innerHTML = "";
+            document.getElementById("foundHouse").innerHTML = "";
+        }
+    </script>
+</head>
+<body>
+    <h1>Student house checker</h1>
+        Student number: <input type="number" id="stdNoInput">
+        <br />
+        <input type="submit" onclick="return processForm()" value="Submit">
+        <input type="submit" onclick="return clearForm()" value="Clear">
+    <h2 id="foundNo"></h2>
+    <h3 id="foundHouse"></h3>
+</body>
+</html>
