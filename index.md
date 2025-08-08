@@ -4,9 +4,13 @@ date: 2025-08-07
 ---
 # dr troy kaighin astarte
 
-welcome to the web pages for troy kaighin astarte. (it is meant to look like this. it's a statement.)
+welcome to the web pages for troy kaighin astarte. (it is meant to look like this.)
 
 maybe you came here for my email. it's <t.k.astarte@swansea.ac.uk>. 
+
+maybe you want to see what I look like? this:\
+[![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "troy astarte")](res/img/TKA-25-large.jpeg)\
+taken in may 2025 at kew gardens by amber cooper davies.
 
 or maybe for my publications, or cv? that's not here yet. sorry.
 
