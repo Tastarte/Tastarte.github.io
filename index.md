@@ -31,8 +31,9 @@ as an agender person (pronouns: they/them) troy appreciates gender-neutral terms
 
 ## pictures
 
-puffins: taken on skomer island by me and choppily gif'd\
-![two puffins preening each other](res/img/puffins.gif)
 
 misty: taken at my old house like ten years ago by me\
-![it's my cat misty](res/img/Misty_loafing_around.jpeg)
+![a black and white cat sits with all paws tucked underneath atop a laptop case](res/img/Misty_loafing_around.jpeg)
+
+puffins: taken on skomer island by me and choppily gif'd\
+![two puffins stand on a rock, preening each other](res/img/puffins.gif)
