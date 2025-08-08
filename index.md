@@ -27,7 +27,11 @@ or maybe for my publications, or cv? that's not here yet. sorry.
 
 ## about me
 
-troy kaighin astarte is (for now) a lecturer in computer science at [swansea university](https://www.swansea.ac.uk/staff/t.k.astarte/). troy graduated with a degree in computer science and a phd in the history of computer science from newcastle university. their research is in the history of computing and computer science, with previous work on the history of programming language semantics and concurrency. troy's teaching is in various areas of computing with a focus on shaping a more socially-aware generation of graduates. troy is the editor-in-chief of ieee annals of the history of computing, a member of the ieee cs history committee, and acm history committee.
+troy kaighin astarte is (for now) a lecturer in computer science at [swansea university](https://www.swansea.ac.uk/staff/t.k.astarte/). troy graduated with a degree in computer science and a phd in the history of computer science from newcastle university. their research is in the history of computing and computer science, with previous work on the history of programming language semantics and concurrency. troy's teaching is in various areas of computing with a focus on shaping a more socially-aware generation of graduates. 
+
+at swansea, they are a member of the educational, historical, and philosophical foundations of computer science research group ([ehp](https://www.swansea.ac.uk/compsci/research-and-impact/educational-historical-philosophical-foundations/ "ehp research group page")), the robert recorde centre for fundamental studies, the centre for digital arts and humanities ([codah](https://codah.swansea.ac.uk/ "codah web pages")), the [computer science theory group](https://swansea-theory.github.io/ "theory group web pages"), the [fit lab](http://fitlab.eu "fit lab web page"), and the [history of computing collection](http://hocc.swansea.ac.uk "history of computing collection pages"). 
+
+outside swansea, troy is the editor-in-chief of ieee annals of the history of computing, a member of the ieee cs history committee, and acm history committee.
 
 as an agender person (pronouns: they/them) troy appreciates gender-neutral terms of address. this is why the bio is written in the third person. they like to be called ‘troy’ or if more formality is needed, ‘dr. troy’. please, not ‘professor’ or ‘sir’.
 
