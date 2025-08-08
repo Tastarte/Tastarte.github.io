@@ -10,7 +10,7 @@ maybe you came here for my email. it's <t.k.astarte@swansea.ac.uk>.
 
 maybe you want to see what I look like? this:\
 [![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "click for larger")](res/img/TKA-25-large.jpeg "you thought! you thought?! gotcha!")\
-taken in may 2025 at kew gardens by amber cooper davies.
+taken in may 2025 at kew gardens by [amber cooper davies](https://ambercooperdavies.com/ "she's an illustrator").
 
 or maybe for my publications, or cv? that's not here yet. sorry.
 
@@ -31,9 +31,9 @@ troy kaighin astarte is (for now) a lecturer in computer science at [swansea uni
 
 at swansea, they are a member of the educational, historical, and philosophical foundations of computer science research group ([ehp](https://www.swansea.ac.uk/compsci/research-and-impact/educational-historical-philosophical-foundations/ "ehp research group page")), the robert recorde centre for fundamental studies, the centre for digital arts and humanities ([codah](https://codah.swansea.ac.uk/ "codah web pages")), the [computer science theory group](https://swansea-theory.github.io/ "theory group web pages"), the [fit lab](http://fitlab.eu "fit lab web page"), and the [history of computing collection](http://hocc.swansea.ac.uk "history of computing collection pages"). 
 
-outside swansea, troy is the editor-in-chief of ieee annals of the history of computing, a member of the ieee cs history committee, and acm history committee.
+outside swansea, troy is the editor-in-chief of [ieee annals of the history of computing](http://computer.org/annals "annals"), a member of the   [ieee cs history committee](https://www.computer.org/volunteering/boards-and-committees/history "ieee cs history"), and [acm history committee](http://history.acm.org "acm history committee").
 
-as an agender person (pronouns: they/them) troy appreciates gender-neutral terms of address. this is why the bio is written in the third person. they like to be called ‘troy’ or if more formality is needed, ‘dr. troy’. please, not ‘professor’ or ‘sir’.
+as an agender person (pronouns: [they/them](https://pronouns.alysbrooks.com/they/.../themself "pronoun use guide")) troy appreciates gender-neutral terms of address. this is why the bio is written in the third person. they like to be called ‘troy’ or if more formality is needed, ‘dr. troy’. please, not ‘professor’ or ‘sir’.
 
 ---
 
