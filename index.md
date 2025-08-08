@@ -9,7 +9,7 @@ welcome to the web pages for troy kaighin astarte. (it is meant to look like thi
 maybe you came here for my email. it's <t.k.astarte@swansea.ac.uk>. 
 
 maybe you want to see what I look like? this:\
-[![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "troy astarte")](res/img/TKA-25-large.jpeg)\
+[![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "troy astarte")](res/img/TKA-25-large.jpeg "you thought! you thought?! gotcha!")\
 taken in may 2025 at kew gardens by amber cooper davies.
 
 or maybe for my publications, or cv? that's not here yet. sorry.
@@ -37,7 +37,7 @@ as an agender person (pronouns: they/them) troy appreciates gender-neutral terms
 
 
 misty: taken at my old house like ten years ago by me\
-![a black and white cat sits with all paws tucked underneath atop a laptop case](res/img/Misty_loafing_around.jpeg)
+![a black and white cat sits with all paws tucked underneath atop a laptop case](res/img/Misty_loafing_around.jpeg "misty on her favourite sit spot")
 
 puffins: taken on skomer island by me and choppily gif'd\
-![two puffins stand on a rock, preening each other](res/img/puffins.gif)
+![two puffins stand on a rock, preening each other](res/img/puffins.gif "i love these little pierrot penguins")
