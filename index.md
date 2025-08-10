@@ -12,7 +12,9 @@ maybe you want to see what I look like? this:\
 [![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "click for larger")](res/img/TKA-25-large.jpeg "you thought! you thought?! gotcha!")\
 taken in may 2025 at kew gardens by [amber cooper davies](https://ambercooperdavies.com/ "she's an illustrator").
 
-or maybe for my publications, or cv? that's not here yet. sorry.
+or maybe for my [publications](#publications)?
+
+or a cv? that's not here yet. sorry.
 
 ---
 
@@ -21,6 +23,8 @@ or maybe for my publications, or cv? that's not here yet. sorry.
 - [dr troy kaighin astarte](#dr-troy-kaighin-astarte)
   - [navigation](#navigation)
   - [about me](#about-me)
+  - [publications](#publications)
+    - [authored](#authored)
   - [pictures](#pictures)
 
 ---
@@ -34,6 +38,27 @@ at swansea, they are a member of the educational, historical, and philosophical 
 outside swansea, troy is the editor-in-chief of [ieee annals of the history of computing](http://computer.org/annals "annals"), a member of the   [ieee cs history committee](https://www.computer.org/volunteering/boards-and-committees/history "ieee cs history"), and [acm history committee](http://history.acm.org "acm history committee").
 
 as an agender person (pronouns: [they/them](https://pronouns.alysbrooks.com/they/.../themself "pronoun use guide")) troy appreciates gender-neutral terms of address. this is why the bio is written in the third person. they like to be called ‘troy’ or if more formality is needed, ‘dr. troy’. please, not ‘professor’ or ‘sir’.
+
+---
+
+## publications 
+
+### authored
+
+Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090>
+
+Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. Forthcoming.
+
+Troy Kaighin Astarte. From monitors to monitors: an early history of concurrency primitives.
+*Minds and Machines*, 34:51–71, 2023. <https://doi.org/10.1007/s11023-023-09632-2>.
+
+Troy Kaighin Astarte. “Difficult things are difficult to describe”: The role of formal semantics
+in European computer science, 1960–1980. In Janet Abbate and Stephanie Dick, editors, *Abstractions
+and Embodiments: New Histories of Computing and Society*. Johns Hopkins University Press, August 2022.
+
+Cliff B. Jones and Troy Kaighin Astarte. Challenges for semantic description: comparing responses from the main approaches. In Jonathan P. Bowen, Zili Zhang, and Zhiming Liu, editors, *Proceedings of the Third School on Engineering Trustworthy Software Systems*. LNCS 11174. Springer, 2018. <https://doi.org/10.1007/978-3-030-02928-9_6>
+
+Troy Kaighin Astarte and Cliff B. Jones. Formal Semantics of ALGOL 60: Four Descriptions in their Historical Context. In Liesbeth De Mol and Giuseppe Primiero, editors, *Reflections on Programming Systems - Historical and Philosophical Aspects*. Springer, 2018. <https://doi.org/10.1007/978-3-319-97226-8_4>
 
 ---
 
