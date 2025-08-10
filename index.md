@@ -1,6 +1,6 @@
 ---
 title: dr troy kaighin astarte
-date: 2025-08-07
+date: 2025-08-10
 ---
 # dr troy kaighin astarte
 
