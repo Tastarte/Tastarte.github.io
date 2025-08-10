@@ -24,7 +24,6 @@ or a cv? that's not here yet. sorry.
   - [navigation](#navigation)
   - [about me](#about-me)
   - [publications](#publications)
-    - [authored](#authored)
   - [pictures](#pictures)
 
 ---
@@ -43,7 +42,12 @@ as an agender person (pronouns: [they/them](https://pronouns.alysbrooks.com/they
 
 ## publications 
 
-### authored
+if you want bibtex of any publication, they are all here: [tkastarte.bib](res/tkastarte.bib "download bibtex of my publications").
+
+i decided most people probably don't care that much about every talk, proceedings edited, editorials, and the like. 
+you can find a lot of them in the above-linked bib if you really want. 
+
+i might host pdfs here later. for now, if you see this page and really want a pdf, [email me](#dr-troy-kaighin-astarte "email address was at the top, remember?").
 
 Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090>
 
@@ -55,6 +59,9 @@ Troy Kaighin Astarte. From monitors to monitors: an early history of concurrency
 Troy Kaighin Astarte. “Difficult things are difficult to describe”: The role of formal semantics
 in European computer science, 1960–1980. In Janet Abbate and Stephanie Dick, editors, *Abstractions
 and Embodiments: New Histories of Computing and Society*. Johns Hopkins University Press, August 2022.
+
+Troy Kaighin Astarte. Formalising Meaning: a History of Programming Language Semantics.
+PhD thesis, Newcastle University, June 2019.
 
 Cliff B. Jones and Troy Kaighin Astarte. Challenges for semantic description: comparing responses from the main approaches. In Jonathan P. Bowen, Zili Zhang, and Zhiming Liu, editors, *Proceedings of the Third School on Engineering Trustworthy Software Systems*. LNCS 11174. Springer, 2018. <https://doi.org/10.1007/978-3-030-02928-9_6>
 
