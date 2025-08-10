@@ -52,17 +52,17 @@ i might host pdfs here later. for now, if you see this page and really want a pd
 
 Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090>
 
-Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. Forthcoming.
+Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. Forthcoming. [pdf](res/pdf/Astarte2025TL.pdf "i should remove this once it's published")
 
 Troy Kaighin Astarte. From monitors to monitors: an early history of concurrency primitives.
 *Minds and Machines*, 34:51–71, 2023. <https://doi.org/10.1007/s11023-023-09632-2>.
 
 Troy Kaighin Astarte. “Difficult things are difficult to describe”: The role of formal semantics
 in European computer science, 1960–1980. In Janet Abbate and Stephanie Dick, editors, *Abstractions
-and Embodiments: New Histories of Computing and Society*. Johns Hopkins University Press, August 2022.
+and Embodiments: New Histories of Computing and Society*. Johns Hopkins University Press, August 2022. [pdf](res/pdf/Astarte2022.pdf "i see no other online access so here it is")
 
 Troy Kaighin Astarte. Formalising Meaning: a History of Programming Language Semantics.
-PhD thesis, Newcastle University, June 2019.
+PhD thesis, Newcastle University, June 2019. <https://cronfa.swan.ac.uk/Record/cronfa59379>
 
 Cliff B. Jones and Troy Kaighin Astarte. Challenges for semantic description: comparing responses from the main approaches. In Jonathan P. Bowen, Zili Zhang, and Zhiming Liu, editors, *Proceedings of the Third School on Engineering Trustworthy Software Systems*. LNCS 11174. Springer, 2018. <https://doi.org/10.1007/978-3-030-02928-9_6>
 
