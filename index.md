@@ -44,8 +44,9 @@ as an agender person (pronouns: [they/them](https://pronouns.alysbrooks.com/they
 
 if you want bibtex of any publication, they are all here: [tkastarte.bib](res/tkastarte.bib "download bibtex of my publications").
 
-i decided most people probably don't care that much about every talk, proceedings edited, editorials, and the like. 
-you can find a lot of them in the above-linked bib if you really want. 
+i decided most people probably don't care that much about every talk, proceedings edited, reviews, and the like. 
+you can find most of them in the above-linked bib if you really want. 
+i haven't included the journal editorials. 
 
 i might host pdfs here later. for now, if you see this page and really want a pdf, [email me](#dr-troy-kaighin-astarte "email address was at the top, remember?").
 
@@ -71,6 +72,8 @@ Troy Kaighin Astarte and Cliff B. Jones. Formal Semantics of ALGOL 60: Four Desc
 
 ## pictures
 
+me: taken in early august 2025 by kate mee\
+![a person, troy, stands in front of a waterfall. they are wearing a green top and have many straps across their chest from a rucksack and camera bag. their hair is tied up and they have a moustache.](res/img/TKA-25-falls.JPG "troy at one of the four falls")
 
 misty: taken at my old house like ten years ago by me\
 ![a black and white cat sits with all paws tucked underneath atop a laptop case](res/img/Misty_loafing_around.jpeg "misty on her favourite sit spot")
