@@ -45,29 +45,29 @@ as an agender person (pronouns: [they/them](https://pronouns.alysbrooks.com/they
 
 if you want bibtex of any publication, they are all here: [tkastarte.bib](res/tkastarte.bib "download bibtex of my publications").
 
-i decided most people probably don't care that much about every talk, proceedings edited, reviews, and the like. 
+i decided most people probably don't care that much about every talk, tech report versions, proceedings edited, reviews, and the like. 
 you can find most of them in the above-linked bib if you really want. 
 i haven't included the journal editorials. 
 
-i might host pdfs here later. for now, if you see this page and really want a pdf, [email me](#dr-troy-kaighin-astarte "email address was at the top, remember?").
+some pdfs are hosted here, typically if they are not available anywhere else. if you see this page and really want a different pdf, [email me](#dr-troy-kaighin-astarte "email address was at the top, remember?").
 
-Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090>
+Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090> (OA).
 
-Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. Forthcoming. [pdf](res/pdf/Astarte2025TL.pdf "i should remove this once it's published")
+Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. Forthcoming. [pdf](res/pdf/Astarte2025TL.pdf "i should remove this once it's published").
 
 Troy Kaighin Astarte. From monitors to monitors: an early history of concurrency primitives.
-*Minds and Machines*, 34:51–71, 2023. <https://doi.org/10.1007/s11023-023-09632-2>.
+*Minds and Machines*, 34:51–71, 2023. <https://doi.org/10.1007/s11023-023-09632-2> (OA).
 
 Troy Kaighin Astarte. “Difficult things are difficult to describe”: The role of formal semantics
 in European computer science, 1960–1980. In Janet Abbate and Stephanie Dick, editors, *Abstractions
-and Embodiments: New Histories of Computing and Society*. Johns Hopkins University Press, August 2022. [pdf](res/pdf/Astarte2022.pdf "i see no other online access so here it is")
+and Embodiments: New Histories of Computing and Society*. Johns Hopkins University Press, August 2022. [pdf](res/pdf/Astarte2022Difficult.pdf "i see no other online access so here it is").
 
 Troy Kaighin Astarte. Formalising Meaning: a History of Programming Language Semantics.
-PhD thesis, Newcastle University, June 2019. <https://cronfa.swan.ac.uk/Record/cronfa59379>
+PhD thesis, Newcastle University, June 2019. <https://cronfa.swan.ac.uk/Record/cronfa59379>. [pdf](res/pdf/Astarte2019PhD.pdf) (big!).
 
-Cliff B. Jones and Troy Kaighin Astarte. Challenges for semantic description: comparing responses from the main approaches. In Jonathan P. Bowen, Zili Zhang, and Zhiming Liu, editors, *Proceedings of the Third School on Engineering Trustworthy Software Systems*. LNCS 11174. Springer, 2018. <https://doi.org/10.1007/978-3-030-02928-9_6>
+Cliff B. Jones and Troy Kaighin Astarte. Challenges for semantic description: comparing responses from the main approaches. In Jonathan P. Bowen, Zili Zhang, and Zhiming Liu, editors, *Proceedings of the Third School on Engineering Trustworthy Software Systems*. LNCS 11174. Springer, 2018. <https://doi.org/10.1007/978-3-030-02928-9_6>. [pdf](res/pdf/JonesAstarte2018Challenges.pdf).
 
-Troy Kaighin Astarte and Cliff B. Jones. Formal Semantics of ALGOL 60: Four Descriptions in their Historical Context. In Liesbeth De Mol and Giuseppe Primiero, editors, *Reflections on Programming Systems - Historical and Philosophical Aspects*. Springer, 2018. <https://doi.org/10.1007/978-3-319-97226-8_4>
+Troy Kaighin Astarte and Cliff B. Jones. Formal Semantics of ALGOL 60: Four Descriptions in their Historical Context. In Liesbeth De Mol and Giuseppe Primiero, editors, *Reflections on Programming Systems - Historical and Philosophical Aspects*. Springer, 2018. <https://doi.org/10.1007/978-3-319-97226-8_4>. [pdf](res/pdf/AstarteJones2018ALGOL.pdf).
 
 ---
 
