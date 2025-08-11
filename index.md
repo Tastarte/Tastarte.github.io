@@ -7,6 +7,7 @@ date: 2025-08-10
 welcome to the web pages for troy kaighin astarte. (it is meant to look like this.)
 
 maybe you came here for my email. it's <t.k.astarte@swansea.ac.uk>. 
+or if you are writing about annals, it's <t.astarte@ieee.org>.
 
 maybe you want to see what I look like? this:\
 [![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "click for larger")](res/img/TKA-25-large.jpeg "you thought! you thought?! gotcha!")\
