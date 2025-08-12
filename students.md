@@ -36,7 +36,7 @@ if you are a personal tutee or a project student, visit my [booking page](https:
 
 ## zoom office 
 
-if you are for any reason seeing me remotely, it will be at this link: <https://swanseauniversity.zoom.us/my/t.k.astarte>
+if you are for any reason seeing me remotely, it will be at this link: <https://swanseauniversity.zoom.us/my/t.k.astarte>.
 
 be aware you cannot just turn up here to see me, it has to be arranged in advance. note there is a waiting room. 
 
@@ -46,6 +46,6 @@ be aware you cannot just turn up here to see me, it has to be arranged in advanc
 
 in case you need to know what i look like. taken in early august 2025 by kate mee. 
 
-![a person, troy, stands in front of a waterfall. they are wearing a green top and have many straps across their chest from a rucksack and camera bag. their hair is tied up and they have a moustache.](res/img/TKA-25-falls.JPG "troy at one of the four falls")
+![](res/img/TKA-25-falls.JPG "troy at one of the four falls")
 
 [back home](index.html "go back to home page")
