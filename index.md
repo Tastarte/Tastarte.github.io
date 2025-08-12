@@ -25,6 +25,7 @@ or a cv? that's not here yet. sorry.
   - [navigation](#navigation)
   - [about me](#about-me)
   - [publications](#publications)
+  - [supervision](#supervision)
   - [pictures](#pictures)
 
 ---
@@ -68,6 +69,16 @@ PhD thesis, Newcastle University, June 2019. <https://cronfa.swan.ac.uk/Record/c
 Cliff B. Jones and Troy Kaighin Astarte. Challenges for semantic description: comparing responses from the main approaches. In Jonathan P. Bowen, Zili Zhang, and Zhiming Liu, editors, *Proceedings of the Third School on Engineering Trustworthy Software Systems*. LNCS 11174. Springer, 2018. <https://doi.org/10.1007/978-3-030-02928-9_6>. [pdf](res/pdf/JonesAstarte2018Challenges.pdf).
 
 Troy Kaighin Astarte and Cliff B. Jones. Formal Semantics of ALGOL 60: Four Descriptions in their Historical Context. In Liesbeth De Mol and Giuseppe Primiero, editors, *Reflections on Programming Systems - Historical and Philosophical Aspects*. Springer, 2018. <https://doi.org/10.1007/978-3-319-97226-8_4>. [pdf](res/pdf/AstarteJones2018ALGOL.pdf).
+
+---
+
+## supervision 
+
+i currently supervise the following research students. (they wrote these short descriptions). 
+
+[genevieve clifford](https://mun-tonsi.net) (from 2024, expected finish 2027). genevieve explores what digital poverty means for transgender people in wales by characterising the utility of digital technologies, as well as the political economies that surround them and the transgender people that use them. her work is phenomenological, and centres the stories and experiences of trans people, and practitioners supporting their use of technology. her research interests lie unexpectedly in social construction (and critique) of technology, transgender studies (particularly sociological and philosophical aspects), and luddism in the modern age. genevieve's phd is funded by the [welsh graduate school for the social sciences](https://wgsss.ac.uk/profile/genevieve-clifford).
+
+steven abbot-williams (from 2024, expected finish 2027). Steven's work investigates the intersections between data, sport, and people. Focusing primarily between the late 19th and early 20th centuries, he looks at how those working within sport viewed and utilised data, and what it meant to them. His work looks at how data is socially constructed via differing factors that in turn lead into real tangible events that have their own causal abilities. He also is interested in the groups of people that are responsible for this construction and how they operate in a larger network of various other actors all working in a similar world. 
 
 ---
 
