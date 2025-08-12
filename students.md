@@ -10,7 +10,7 @@ useful for project students, tutees, and those looking for support on one of my 
 
 ---
 
-# planned time away 
+## planned time away 
 
 8th & 9th september: attending workshop of history for diversity in mathematics education (manchester).
 
@@ -20,7 +20,7 @@ useful for project students, tutees, and those looking for support on one of my 
 
 ---
 
-# drop in hours 
+## drop in hours 
 
 find them on [the intranet](https://fse-intranet.swan.ac.uk/intranet/staff_officehours?selected_staff_id=203842).
 
@@ -28,18 +28,24 @@ to be determined when tb1 starts.
 
 ---
 
-# book to see me 
+## book to see me 
 
 if you are a personal tutee or a project student, visit my [booking page](https://outlook.office.com/bookwithme/user/8e101a47e22e4af793d033901758d0e4@Swansea.ac.uk/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink). 
 
 --- 
 
-# zoom office 
+## zoom office 
 
 if you are for any reason seeing me remotely, it will be at this link: <https://swanseauniversity.zoom.us/my/t.k.astarte>
 
 be aware you cannot just turn up here to see me, it has to be arranged in advance. note there is a waiting room. 
 
 --- 
+
+## picture of me 
+
+in case you need to know what i look like. taken in early august 2025 by kate mee. 
+
+![a person, troy, stands in front of a waterfall. they are wearing a green top and have many straps across their chest from a rucksack and camera bag. their hair is tied up and they have a moustache.](res/img/TKA-25-falls.JPG "troy at one of the four falls")
 
 [back home](index.html "go back to home page")
