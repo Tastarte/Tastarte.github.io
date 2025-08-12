@@ -1,6 +1,6 @@
 ---
 title: dr troy kaighin astarte
-date: 2025-08-11
+date: 2025-08-12
 ---
 # dr troy kaighin astarte
 
@@ -16,6 +16,8 @@ taken in may 2025 at kew gardens by [amber cooper davies](https://ambercooperdav
 or maybe for my [publications](#publications)?
 
 or a cv? that's not here yet. sorry.
+
+current taught students: info on meeting me at [/students](students.html).
 
 ---
 
