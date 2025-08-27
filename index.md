@@ -21,7 +21,7 @@ or maybe for my [publications](#publications)?
 
 or a cv? that's not here yet. sorry.
 
-current taught students: info on meeting me at [/students](students).
+current taught students: info on meeting me at [/students](students.html).
 
 ---
 
