@@ -12,16 +12,15 @@ or for ucu business (especially if confidentiality is needed,
 for example regarding casework): <t.astarte.ucu@gmail.com>.\
 for anything else, it's <t.k.astarte@swansea.ac.uk>. 
 
-or if
+current taught students: info on meeting me at [/students](students.html).
+
 maybe you want to see what I look like? this:\
 [![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "click for larger")](res/img/TKA-25-large.jpeg "you thought! you thought?! gotcha!")\
 taken in may 2025 at kew gardens by [amber cooper davies](https://ambercooperdavies.com/ "she's an illustrator").
 
-or maybe for my [publications](#publications)?
+or maybe you came for my [publications](#publications)?
 
-or a cv? that's not here yet. sorry.
-
-current taught students: info on meeting me at [/students](students.html).
+or a cv? that's not here. sorry. not sure if there's enough demand! 
 
 ---
 
