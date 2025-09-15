@@ -12,9 +12,11 @@ useful for project students, tutees, and those looking for support on one of my 
 
 ## planned time away 
 
-8th & 9th september: attending workshop of history for diversity in mathematics education (manchester).
+1st october: annual leave
 
 8th to 13th october: attending [shot](https://www.historyoftechnology.org/annual-meeting/2025-shot-annual-meeting/) (luxembourg).
+
+14th october: annual leave
 
 17th to 19th december (dates to be confirmed): attending [hapoc](https://hapoc.org/hapoc-8/) (aachen). 
 
@@ -24,13 +26,13 @@ useful for project students, tutees, and those looking for support on one of my 
 
 find them on [the intranet](https://fse-intranet.swan.ac.uk/intranet/staff_officehours?selected_staff_id=203842).
 
-to be determined when tb1 starts.
+may change in tb2. 
 
 ---
 
 ## book to see me 
 
-if you are a personal tutee or a project student, visit my [booking page](https://outlook.office.com/bookwithme/user/8e101a47e22e4af793d033901758d0e4@Swansea.ac.uk/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink). 
+if you are a personal tutee or a project student, visit my [booking page](https://outlook.office.com/bookwithme/user/8e101a47e22e4af793d033901758d0e4@swansea.ac.uk?anonymous&ismsaljsauthenabled&ep=plink). 
 
 --- 
 
