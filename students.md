@@ -12,7 +12,7 @@ useful for project students, tutees, and those looking for support on one of my 
 
 ## planned time away 
 
-1st october: annual leave
+3rd october: annual leave
 
 8th to 13th october: attending [shot](https://www.historyoftechnology.org/annual-meeting/2025-shot-annual-meeting/) (luxembourg).
 
