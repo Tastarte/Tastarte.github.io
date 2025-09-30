@@ -25,6 +25,13 @@ useful for project students, tutees, and those looking for support on one of my 
 ## drop in hours 
 
 find them on [the intranet](https://fse-intranet.swan.ac.uk/intranet/staff_officehours?selected_staff_id=203842).
+we are constantly threatened this intranet may disappear.
+as backup, drop-in hours are: 
+
+mondays, 1200\
+fridays, 1500
+
+computational foundry 407.
 
 may change in tb2. 
 
