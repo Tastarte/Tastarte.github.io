@@ -87,6 +87,8 @@ i currently supervise the following research students. (they wrote these short d
 
 [genevieve clifford](https://mun-tonsi.net) (from 2024, expected finish 2027). genevieve explores what digital poverty means for transgender people in wales by characterising the utility of digital technologies, as well as the political economies that surround them and the transgender people that use them. her work is phenomenological, and centres the stories and experiences of trans people, and practitioners supporting their use of technology. her research interests lie unexpectedly in social construction (and critique) of technology, transgender studies (particularly sociological and philosophical aspects), and luddism in the modern age. genevieve's phd is funded by the [welsh graduate school for the social sciences](https://wgsss.ac.uk/profile/genevieve-clifford).
 
+gregor zurowski. researching the history of pascal. (awaiting some information from him.)
+
 steven abbot-williams (from 2024, expected finish 2027). Steven's work investigates the intersections between data, sport, and people. Focusing primarily between the late 19th and early 20th centuries, he looks at how those working within sport viewed and utilised data, and what it meant to them. His work looks at how data is socially constructed via differing factors that in turn lead into real tangible events that have their own causal abilities. He also is interested in the groups of people that are responsible for this construction and how they operate in a larger network of various other actors all working in a similar world. 
 
 [return to top](#dr-troy-kaighin-astarte)

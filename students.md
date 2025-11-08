@@ -12,13 +12,11 @@ useful for project students, tutees, and those looking for support on one of my 
 
 ## planned time away 
 
-3rd october: annual leave
+28th november: annual leave
 
-8th to 13th october: attending [shot](https://www.historyoftechnology.org/annual-meeting/2025-shot-annual-meeting/) (luxembourg).
+15th to 16th december: annual leave and travel
 
-14th october: annual leave
-
-17th to 19th december (dates to be confirmed): attending [hapoc](https://hapoc.org/hapoc-8/) (aachen). 
+17th to 19th december: attending [hapoc](https://hapoc.org/hapoc-8/) (aachen). 
 
 ---
 
