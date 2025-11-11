@@ -18,6 +18,8 @@ useful for project students, tutees, and those looking for support on one of my 
 
 17th to 19th december: attending [hapoc](https://hapoc.org/hapoc-8/) (aachen). 
 
+22nd to 23rd december: no more work after home from germany. 
+
 ---
 
 ## drop in hours 
