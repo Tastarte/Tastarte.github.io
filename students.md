@@ -12,9 +12,7 @@ useful for project students, tutees, and those looking for support on one of my 
 
 ## planned time away 
 
-21st nover: working on Singleton campus, not available for drop-in hour
-
-28th november: annual leave
+1st december: working from home due to illness: no drop in hour
 
 15th to 16th december: annual leave and travel
 
