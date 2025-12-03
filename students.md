@@ -12,8 +12,6 @@ useful for project students, tutees, and those looking for support on one of my 
 
 ## planned time away 
 
-1st december: working from home due to illness: no drop in hour
-
 15th to 16th december: annual leave and travel
 
 17th to 19th december: attending [hapoc](https://hapoc.org/hapoc-8/) (aachen). 
