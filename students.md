@@ -1,6 +1,6 @@
 ---
 title: dr troy kaighin astarte
-date: 2025-08-12
+date: 2026-01-05
 ---
 
 # troy astarte office info
@@ -8,15 +8,13 @@ date: 2025-08-12
 this is the place to find information about how and when to meet me. 
 useful for project students, tutees, and those looking for support on one of my modules. 
 
+*newly updated for tb2!* 
+
 ---
 
 ## planned time away 
 
-15th to 16th december: annual leave and travel
-
-17th to 19th december: attending [hapoc](https://hapoc.org/hapoc-8/) (aachen). 
-
-22nd to 23rd december: no more work after home from germany. 
+none yet :-(
 
 ---
 
@@ -24,20 +22,44 @@ useful for project students, tutees, and those looking for support on one of my 
 
 find them on [the intranet](https://fse-intranet.swan.ac.uk/intranet/staff_officehours?selected_staff_id=203842).
 we are constantly threatened this intranet may disappear.
-as backup, drop-in hours are: 
+
+office hours depend on your module. 
+
+### cs-115
 
 mondays, 1200\
-fridays, 1500
+computational foundry 407 (bay).
 
-computational foundry 407.
+fridays, 1200\
+computational foundry 104 (bay).
 
-may change in tb2. 
+### csf207 (DA)
+
+wednesdays, 1700\
+margam 213 (park).
+
+fridays, 1700\
+zoom: [troy's office](https://swanseauniversity.zoom.us/my/t.k.astarte)
+*not for use by cs-115 students!*
+
+**this session will not run on the following days**
+
+* 16th january
+* 20th february.
+  
+---
+
+## second-year project students
+
+meetings are every two weeks, friday, 1600, computational foundry 407, commencing 30th january.
 
 ---
 
 ## book to see me 
 
-if you are a personal tutee or a project student, visit my [booking page](https://outlook.office.com/bookwithme/user/8e101a47e22e4af793d033901758d0e4@swansea.ac.uk?anonymous&ismsaljsauthenabled&ep=plink). 
+if you are a personal tutee or a project student, visit my [booking page](https://outlook.office.com/bookwithme/user/8e101a47e22e4af793d033901758d0e4@Swansea.ac.uk/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ismsaljsauthenabled&ep=mlink). 
+
+the booking times are basically all day thursday and friday, minus any meetings i might have and the above drop-ins.
 
 --- 
 
