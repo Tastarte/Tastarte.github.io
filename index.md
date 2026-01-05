@@ -1,6 +1,6 @@
 ---
 title: dr troy kaighin astarte
-date: 2025-08-12
+date: 2025-01-05
 ---
 # dr troy kaighin astarte
 
@@ -31,7 +31,6 @@ or a cv? that's not here. sorry. not sure if there's enough demand!
   - [about me](#about-me)
   - [publications](#publications)
   - [supervision](#supervision)
-  - [pictures](#pictures)
 
 ---
 
@@ -61,7 +60,7 @@ some pdfs are hosted here, typically if they are not available anywhere else. if
 
 Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090> (OA).
 
-Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. Forthcoming. [pdf](res/pdf/Astarte2025TL.pdf "i should remove this once it's published").
+Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. [read open access](https://meson.press/books/computing-cultures/).
 
 Troy Kaighin Astarte. From monitors to monitors: an early history of concurrency primitives.
 *Minds and Machines*, 34:51–71, 2023. <https://doi.org/10.1007/s11023-023-09632-2> (OA).
@@ -95,7 +94,7 @@ steven abbot-williams (from 2024, expected finish 2027). Steven's work investiga
 
 ---
 
-## pictures
+<!-- ## pictures
 
 me: taken in early august 2025 by kate mee\
 ![a person, troy, stands in front of a waterfall. they are wearing a green top and have many straps across their chest from a rucksack and camera bag. their hair is tied up and they have a moustache.](res/img/TKA-25-falls.JPG "troy at one of the four falls")
@@ -104,6 +103,6 @@ misty: taken at my old house like ten years ago by me\
 ![a black and white cat sits with all paws tucked underneath atop a laptop case](res/img/Misty_loafing_around.jpeg "misty on her favourite sit spot")
 
 puffins: taken on skomer island by me and choppily gif'd\
-![two puffins stand on a rock, preening each other](res/img/puffins.gif "i love these little pierrot penguins")
+![two puffins stand on a rock, preening each other](res/img/puffins.gif "i love these little pierrot penguins") -->
 
 [return to top](#dr-troy-kaighin-astarte)
