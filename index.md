@@ -16,7 +16,7 @@ current taught students: info on meeting me at [/students](students.html).
 
 maybe you want to see what I look like? this:\
 [![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "click for larger")](res/img/TKA-25-large.jpeg "you thought! you thought?! gotcha!")\
-taken in may 2025 at kew gardens by [amber cooper davies](https://ambercooperdavies.com/ "she's an illustrator").
+taken in may 2025 at kew gardens by [amber cooper-davies](https://ambercooperdavies.com/ "she's an illustrator, but used my camera most capably").
 
 or maybe you came for my [publications](#publications)?
 
@@ -92,9 +92,9 @@ steven abbot-williams (from 2024, expected finish 2027). Steven's work investiga
 
 [return to top](#dr-troy-kaighin-astarte)
 
----
+<!--  ---
 
-<!-- ## pictures
+## pictures
 
 me: taken in early august 2025 by kate mee\
 ![a person, troy, stands in front of a waterfall. they are wearing a green top and have many straps across their chest from a rucksack and camera bag. their hair is tied up and they have a moustache.](res/img/TKA-25-falls.JPG "troy at one of the four falls")
@@ -103,6 +103,6 @@ misty: taken at my old house like ten years ago by me\
 ![a black and white cat sits with all paws tucked underneath atop a laptop case](res/img/Misty_loafing_around.jpeg "misty on her favourite sit spot")
 
 puffins: taken on skomer island by me and choppily gif'd\
-![two puffins stand on a rock, preening each other](res/img/puffins.gif "i love these little pierrot penguins") -->
+![two puffins stand on a rock, preening each other](res/img/puffins.gif "i love these little pierrot penguins")
 
-[return to top](#dr-troy-kaighin-astarte)
+[return to top](#dr-troy-kaighin-astarte) -->
