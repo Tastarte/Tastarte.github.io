@@ -1,6 +1,6 @@
 ---
 title: dr troy kaighin astarte
-date: 2026-01-05
+date: 2026-01-28
 ---
 
 # troy astarte office info
