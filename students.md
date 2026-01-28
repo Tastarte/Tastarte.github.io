@@ -30,6 +30,10 @@ office hours depend on your module.
 mondays, 1200\
 computational foundry 407 (bay).
 
+**this session will not run on the following day**
+
+monday 2nd february 2026 (due to departmental meeting)
+
 fridays, 1200\
 computational foundry 104 (bay).
 
@@ -44,7 +48,6 @@ zoom: [troy's office](https://swanseauniversity.zoom.us/my/t.k.astarte)
 
 **this session will not run on the following days**
 
-* 16th january
 * 20th february.
   
 ---
