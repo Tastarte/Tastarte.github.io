@@ -60,7 +60,7 @@ some pdfs are hosted here, typically if they are not available anywhere else. if
 
 Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090> (OA).
 
-Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. [read open access](https://meson.press/books/computing-cultures/).
+Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. <www.doi.org/10.14619/2737> (OA, doi is for whole book).
 
 Troy Kaighin Astarte. From monitors to monitors: an early history of concurrency primitives.
 *Minds and Machines*, 34:51–71, 2023. <https://doi.org/10.1007/s11023-023-09632-2> (OA).
