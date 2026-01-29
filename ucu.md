@@ -31,6 +31,7 @@ drop-in hours:
 
 * 1400 to 1600 on tuesdays on bay campus, computational foundry 407
 * 1100 to 1300 on wednesdays on singleton campus, margam 213 
+* friday 30th january 1500 to 1600, cofo 407 (maybe one-off)
 
 zoom meetings for all on various days, will note here when 
 
