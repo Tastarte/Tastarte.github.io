@@ -14,6 +14,8 @@ for anything else, it's <t.k.astarte@swansea.ac.uk>.
 
 current taught students: info on meeting me at [/students](students.html).
 
+info on my availability during the redundancy consultations is at [/ucu](ucu.html).
+
 maybe you want to see what I look like? this:\
 [![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "click for larger")](res/img/TKA-25-large.jpeg "you thought! you thought?! gotcha!")\
 taken in may 2025 at kew gardens by [amber cooper-davies](https://ambercooperdavies.com/ "she's an illustrator, but used my camera most capably").
