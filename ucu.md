@@ -30,10 +30,12 @@ but there will be nothing personal or identifying here.
 drop-in hours: 
 
 * 1400 to 1600 on tuesdays on bay campus, computational foundry 407
+  * _cancelled tuesday 10th feburary due to valenog_
+  * come instead monday 9th feb at 1200
 * 1100 to 1300 on wednesdays on singleton campus, margam 213 
 
 next zoom meeting for all: 
-thursday 5th feb 1200 on zoom ([meeting link](https://swanseauniversity.zoom.us/j/95504467291?pwd=lAJ0SZu0Fah0AGWYhxEduphJNxWmPR.1))
+friday 13th feb at 1500 on zoom ([meeting link](https://swanseauniversity.zoom.us/j/93927400393?pwd=jxcp6Cc9cmoFbeR26lh2CJK6aO40nr.1))
 
 
 
