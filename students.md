@@ -23,16 +23,17 @@ none yet :-(
 find them on [the intranet](https://fse-intranet.swan.ac.uk/intranet/staff_officehours?selected_staff_id=203842).
 we are constantly threatened this intranet may disappear.
 
-office hours depend on your module. 
+office hours depend on your need. 
+if you are a project student, please [book a meeting](#book-to-see-me). 
+if you are seeing me for a module, see below. 
+if you are looking for the head of year 3, choose any of the below options; you can even straight up email me. 
 
 ### cs-115
 
 mondays, 1200\
 computational foundry 407 (bay).
 
-**this session will not run on the following day**
-
-monday 2nd february 2026 (due to departmental meeting)
+<!-- **this session will not run on the following day** -->
 
 fridays, 1200\
 computational foundry 104 (bay).
@@ -44,23 +45,24 @@ margam 213 (park).
 
 fridays, 1700\
 zoom: [troy's office](https://swanseauniversity.zoom.us/my/t.k.astarte)
+please arrange in advance!
 *not for use by cs-115 students!*
 
-**this session will not run on the following days**
+<!-- **this session will not run on the following days** -->
 
-* 20th february.
   
 ---
 
 ## second-year project students
 
 meetings are every two weeks, friday, 1600, computational foundry 407, commencing 30th january.
+*may be altered!* 
 
 ---
 
 ## book to see me 
 
-if you are a personal tutee or a project student, visit my [booking page](https://outlook.office.com/bookwithme/user/8e101a47e22e4af793d033901758d0e4@Swansea.ac.uk/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ismsaljsauthenabled&ep=mlink). 
+if you are a personal tutee or a project student, or need to see me in my year head role, visit my [booking page](https://outlook.office.com/bookwithme/user/8e101a47e22e4af793d033901758d0e4@Swansea.ac.uk/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ismsaljsauthenabled&ep=mlink). 
 
 the booking times are basically all day thursday and friday, minus any meetings i might have and the above drop-ins.
 
