@@ -64,7 +64,7 @@ meetings are every two weeks, friday, 1600, computational foundry 407, commencin
 
 if you are a personal tutee or a project student, or need to see me in my year head role, visit my [booking page](https://outlook.office.com/bookwithme/user/8e101a47e22e4af793d033901758d0e4@Swansea.ac.uk/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ismsaljsauthenabled&ep=mlink). 
 
-the booking times are basically all day thursday and friday, minus any meetings i might have and the above drop-ins.
+the booking times are basically all day tuesday, thursday, and friday, minus any meetings i might have, and the above drop-ins.
 
 --- 
 
