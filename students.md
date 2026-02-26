@@ -14,7 +14,7 @@ useful for project students, tutees, and those looking for support on one of my 
 
 ## planned time away 
 
-none yet :-(
+11th to 18th july 2026 (history of science conference edinburgh)
 
 ---
 
