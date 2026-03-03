@@ -33,9 +33,7 @@ if you are looking for the head of year 3, choose any of the below options; you 
 mondays, 1200\
 computational foundry 407 (bay).
 
-**this session will not run on the following day**
-
-monday 2nd march (departmental staff meeting)
+<!-- **this session will not run on the following day** -->
 
 fridays, 1200\
 computational foundry 104 (bay).

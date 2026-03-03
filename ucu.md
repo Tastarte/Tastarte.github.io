@@ -33,7 +33,7 @@ drop-in hours:
 * 1100 to 1300 on wednesdays on singleton campus, margam 213 
 
 next zoom meeting for all: 
-to be discussed at the departmental staff meeting on monday 2nd march. 
+wednesday 4th march at 1100 on zoom ([meeting link](https://swanseauniversity.zoom.us/j/93452493314?pwd=KIMIu2yqggjCowH032EV8hzY23sha6.1)) ([agenda](https://docs.google.com/document/d/13TLLLxqUlBY-XRqD6MUufHMZCpdKSExPse6RXiqsKdU/edit?tab=t.0))
 
 
 
