@@ -17,7 +17,7 @@ the below info is regard of this.
 email me at t.astarte.ucu@gmail.com 
 note i will email to confirm when i have made a note of the remarks 
 
-complete the [anonymous feedback google form](https://forms.gle/59uLwmVvr3LYCBDT9) 
+<!-- complete the [anonymous feedback google form](https://forms.gle/59uLwmVvr3LYCBDT9)  -->
 
 [google folder for shared documents](https://drive.google.com/drive/folders/1DLdZf1dV7PlgzJsJjqc05G4HHzOmCk6H?usp=sharing). 
 consider this *fully public*: nothing about union organising will be put here.
@@ -29,11 +29,12 @@ but there will be nothing personal or identifying here.
 
 drop-in hours: 
 
-* 1400 to 1600 on tuesdays on bay campus, computational foundry 407
+* 1400 to 1600 on tuesdays on bay campus, computational foundry 407 (cancelled on 10th march for gtvo)
 * 1100 to 1300 on wednesdays on singleton campus, margam 213 
 
 next zoom meeting for all: 
-wednesday 4th march at 1100 on zoom ([meeting link](https://swanseauniversity.zoom.us/j/93452493314?pwd=KIMIu2yqggjCowH032EV8hzY23sha6.1)) ([agenda](https://docs.google.com/document/d/13TLLLxqUlBY-XRqD6MUufHMZCpdKSExPse6RXiqsKdU/edit?tab=t.0))
+monday 9th march at 100 on zoom ([meeting link](https://swanseauniversity.zoom.us/j/99670920580?pwd=MsFX0v8FAKCddSmPtTBjyx2zK78pc6.1
+)) ([agenda](https://docs.google.com/document/d/11-He-n5sH_Z3Ofr75O82t--n1RsQ0o1DJf_uZR5w0hM/edit?tab=t.0))
 
 
 
