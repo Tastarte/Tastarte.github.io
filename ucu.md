@@ -32,9 +32,9 @@ drop-in hours:
 * 1400 to 1600 on tuesdays on bay campus, computational foundry 407 (cancelled on 10th march for gtvo)
 * 1100 to 1300 on wednesdays on singleton campus, margam 213 
 
-next zoom meeting for all: 
-monday 9th march at 100 on zoom ([meeting link](https://swanseauniversity.zoom.us/j/99670920580?pwd=MsFX0v8FAKCddSmPtTBjyx2zK78pc6.1
-)) ([agenda](https://docs.google.com/document/d/11-He-n5sH_Z3Ofr75O82t--n1RsQ0o1DJf_uZR5w0hM/edit?tab=t.0))
+regular computer science action meetings:
+
+* wednesdays at 1100 on [zoom](https://swanseauniversity.zoom.us/j/97615913211?pwd=Y2TRO6aFcG67uA7homlXTC4NHM85A3.1)
 
 
 
