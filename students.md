@@ -14,6 +14,8 @@ useful for project students, tutees, and those looking for support on one of my 
 
 ## planned time away 
 
+2nd to 7th april 2026 (university closure days)\
+10th to 14th april 2026 (manchester ieee milestone event)\
 11th to 18th july 2026 (history of science conference edinburgh)
 
 ---
@@ -32,7 +34,6 @@ if you are looking for the head of year 3, choose any of the below options; you 
 
 mondays, 1200\
 computational foundry 407 (bay).
-*monday 16th march will run at 1100*
 
 <!-- **this session will not run on the following day** -->
 
@@ -41,23 +42,15 @@ computational foundry 104 (bay).
 
 ### csf207 (DA)
 
-wednesdays, 1700\
-margam 213 (park).
-
-fridays, 1700\
-zoom: [troy's office](https://swanseauniversity.zoom.us/my/t.k.astarte)
-please arrange in advance!
-*not for use by cs-115 students!*
-
-<!-- **this session will not run on the following days** -->
+done!
+thanks gang :-) 
 
   
 ---
 
 ## second-year project students
 
-meetings are every two weeks, friday, 1600, computational foundry 407, commencing 30th january.
-*may be altered!* 
+book to see me if desired 
 
 ---
 
