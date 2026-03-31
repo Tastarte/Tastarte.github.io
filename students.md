@@ -8,8 +8,6 @@ date: 2026-03-03
 this is the place to find information about how and when to meet me. 
 useful for project students, tutees, and those looking for support on one of my modules. 
 
-*newly updated for tb2!* 
-
 ---
 
 ## planned time away 
@@ -25,10 +23,13 @@ useful for project students, tutees, and those looking for support on one of my 
 find them on [the intranet](https://fse-intranet.swan.ac.uk/intranet/staff_officehours?selected_staff_id=203842).
 we are constantly threatened this intranet may disappear.
 
-office hours depend on your need. 
+office hours depend on your need.
 if you are a project student, please [book a meeting](#book-to-see-me). 
 if you are seeing me for a module, see below. 
 if you are looking for the head of year 3, choose any of the below options; you can even straight up email me. 
+
+note during the spring holidays (30 march to 19 april) drop-in hours are not running. 
+you can still book to see me except during planned time away as above. 
 
 ### cs-115
 
