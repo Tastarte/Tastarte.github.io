@@ -1,6 +1,6 @@
 ---
 title: dr troy kaighin astarte
-date: 2025-01-28
+date: 2025-05-28
 ---
 # dr troy kaighin astarte
 
@@ -14,7 +14,7 @@ for anything else, it's <t.k.astarte@swansea.ac.uk>.
 
 current taught students: info on meeting me at [/students](students.html).
 
-info on my availability during the redundancy consultations is at [/ucu](ucu.html).
+info on my availability during the redundancies is at [/ucu](ucu.html).
 
 maybe you want to see what I look like? this:\
 [![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "click for larger")](res/img/TKA-25-large.jpeg "you thought! you thought?! gotcha!")\
@@ -42,7 +42,7 @@ troy kaighin astarte is a senior lecturer in computer science at [swansea univer
 
 at swansea, they are a member of the educational, historical, and philosophical foundations of computer science research group ([ehp](https://www.swansea.ac.uk/compsci/research-and-impact/educational-historical-philosophical-foundations/ "ehp research group page")), the robert recorde centre for fundamental studies, the centre for digital arts and humanities ([codah](https://codah.swansea.ac.uk/ "codah web pages")), the [computer science theory group](https://swansea-theory.github.io/ "theory group web pages"), the [fit lab](http://fitlab.eu "fit lab web page"), and the [history of computing collection](http://hocc.swansea.ac.uk "history of computing collection pages"). 
 
-outside swansea, troy is the editor-in-chief of [ieee annals of the history of computing](http://computer.org/annals "annals"), a member of the   [ieee cs history committee](https://www.computer.org/volunteering/boards-and-committees/history "ieee cs history"), and [acm history committee](http://history.acm.org "acm history committee").
+outside swansea, troy is the editor-in-chief of [ieee annals of the history of computing](http://computer.org/annals "annals"), on the steering group of the [history for inclusion & diversity in mathematics network](https://mathshist4edi.wp.st-andrews.ac.uk/), a mbember of the [ieee cs history committee](https://www.computer.org/volunteering/boards-and-committees/history "ieee cs history"), and a former member of the [acm history committee](http://history.acm.org "acm history committee").
 
 as an agender person (pronouns: [they/them](https://pronouns.alysbrooks.com/they/.../themself "pronoun use guide")) troy appreciates gender-neutral terms of address. this is why the bio is written in the third person. they like to be called ‘troy’ or if more formality is needed, ‘dr. troy’. please, not ‘professor’ or ‘sir’.
 
@@ -62,7 +62,7 @@ some pdfs are hosted here, typically if they are not available anywhere else. if
 
 Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090> (OA).
 
-Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. <www.doi.org/10.14619/2737> (OA, doi is for whole book).
+Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. <https://www.doi.org/10.14619/2737> (OA, doi is for whole book).
 
 Troy Kaighin Astarte. From monitors to monitors: an early history of concurrency primitives.
 *Minds and Machines*, 34:51–71, 2023. <https://doi.org/10.1007/s11023-023-09632-2> (OA).
@@ -93,18 +93,3 @@ i currently supervise the following research students. (they wrote these short d
 steven abbot-williams (from 2024, expected finish 2027). Steven's work investigates the intersections between data, sport, and people. Focusing primarily between the late 19th and early 20th centuries, he looks at how those working within sport viewed and utilised data, and what it meant to them. His work looks at how data is socially constructed via differing factors that in turn lead into real tangible events that have their own causal abilities. He also is interested in the groups of people that are responsible for this construction and how they operate in a larger network of various other actors all working in a similar world. 
 
 [return to top](#dr-troy-kaighin-astarte)
-
-<!--  ---
-
-## pictures
-
-me: taken in early august 2025 by kate mee\
-![a person, troy, stands in front of a waterfall. they are wearing a green top and have many straps across their chest from a rucksack and camera bag. their hair is tied up and they have a moustache.](res/img/TKA-25-falls.JPG "troy at one of the four falls")
-
-misty: taken at my old house like ten years ago by me\
-![a black and white cat sits with all paws tucked underneath atop a laptop case](res/img/Misty_loafing_around.jpeg "misty on her favourite sit spot")
-
-puffins: taken on skomer island by me and choppily gif'd\
-![two puffins stand on a rock, preening each other](res/img/puffins.gif "i love these little pierrot penguins")
-
-[return to top](#dr-troy-kaighin-astarte) -->
