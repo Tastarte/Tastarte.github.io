@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+<TITLE>Christopher Strachey’s Love Letter Generator</TITLE>
+
+</HEAD>
+<body>
+<h1>Christopher Strachey’s Love Letter Generator</h1>
+
+<p>
+	Created by Mate Szabo, based on the program written in 1952 by Christopher Strachey and maybe Alan Turing.
+</p>
+	
+<SCRIPT LANGUAGE="JAVASCRIPT">
+
+const noun = ["desire", "wish", "fancy", "liking", "love", "fondness", 
+		"longing", "yearning", "ambition", "eagerness", "ardent",
+		"appetite", "hunger", "thirst", "lust", "passion", "affection",
+		"sympathy", "fellow feeling", "tenderness", "heart", "devotion",
+		"fervent", "enthusiasm", "rapture", "enchantment", "infatuation",
+		"adoration", "charm"];
+
+const verb = ["desires", "wishes", "longs for", "hopes for", "likes", 
+		"clings to", "wants", "hungers for", "thirsts for", 
+		"yearns for", "lusts after", "sighs for", "pines for", 
+		"pants for", "woos", "attracts", "tempts", "loves", 
+		"cares for", "is wedded to", "holds dear", "prizes", 
+		"treasures", "cherishes", "adores"];
+
+const adj =  ["anxious", "wistful", "curious", "craving", "covetous", 
+		"unsatisfied", "eager", "avid", "keen", "burning", 
+		"fervent", "ardent", "breathless", "impatient", 
+		"loving", "lovesick", "affectionate", "tender", 
+		"sweet", "sympathetic", "fond", "amorous", "erotic", 
+		"passionate", "devoted", "dear", "precious", "darling", 
+		"little", "lovable", "adorable", "lovely", "seductive", 
+		"winning", "beautiful"];
+
+const adv =  ["anxiously", "wistfully", "curiously", "covetously", 
+		"eagerly", "avidly", "keenly", "burningly", "fervently", 
+		"ardently", "breathlessly", "impatiently", "lovingly", 
+		"affectionately", "tenderly", "fondly", "passionately", 
+		"devotedly", "seductively", "winningly", "beautifully"];
+
+const greet1 = ["Dear", "Darling", "Honey", "Jewel"];
+
+const greet2 = ["love", "duck", "moppet", "sweetheart", "dear"];
+
+function randInt(max) {
+  return Math.floor(Math.random() * max);
+}
+
+function greeting() {
+	first = randInt(greet1.length);
+	if (first === 0) {
+		second = randInt(greet2.length-1);
+	} else {
+		second = randInt(greet2.length);
+	}
+	return greet1[first] + " " + greet2[second] + "\n\n";
+}
+
+function valediction() {
+	return "                       Yours " + adv[randInt(adv.length)] + "\n\n"
+}
+
+function typeOneSentence(){
+	s = "My";
+
+	if (randInt(2) === 1) {
+		s = s + " " + adj[randInt(adj.length)]
+ 	}
+	s = s + " " + noun[randInt(noun.length)]
+
+	if (randInt(2) === 1) {
+		s = s + " " + adv[randInt(adv.length)]
+	}
+	s = s + " " + verb[randInt(verb.length)] + " your"
+
+	if (randInt(2) === 1) {
+		s = s + " " + adj[randInt(adj.length)]
+	}
+	s = s + " " + noun[randInt(noun.length)] + ".\n"
+	
+	return s
+}
+
+function typeTwoSentence(){
+	return "You are my " + adj[randInt(adj.length)] + " " + noun[randInt(noun.length)] + ".\n"
+}
+
+function typeThreeSentence(){
+	return "You are my " + adj[randInt(adj.length)] + " " + noun[randInt(noun.length)] + 
+		", my " + adj[randInt(adj.length)] + " " + noun[randInt(noun.length)] + ".\n"
+}
+
+function sentences() {
+	next = randInt(2)
+	i = 0
+	s = ""
+	while (i<5) {
+		curr = next
+		next = randInt(2)
+		if (curr === 1 && next === 1 && i<4) {
+			s += typeThreeSentence()
+			next = randInt(2)
+			i++
+		} else if (curr === 1) {
+			s += typeTwoSentence()
+		} else {
+			s += typeOneSentence()
+		}
+		i++
+	}
+	return s + "\n"
+}
+
+function generateLetter()
+{
+	poem = greeting() 
+	poem += sentences()
+	poem += valediction()
+	document.getElementById("poem").innerHTML = "<pre>" + poem + "</pre>";
+}
+</SCRIPT>
+<button onclick="generateLetter()">Generate a new letter!</button>
+
+<p id="poem"></p>
+
+</BODY>
+</HTML>
