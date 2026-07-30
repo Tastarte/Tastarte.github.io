@@ -14,7 +14,10 @@ for anything else, it's <t.k.astarte@swansea.ac.uk>.
 
 current taught students: info on meeting me at [/students](students.html).
 
-info on my availability during the redundancies is at [/ucu](ucu.html).
+info on my union work is at [/ucu](ucu.html).
+
+**please note** since 2026-08-01 i no longer work on wednesdays. 
+i am on a 0.8FTE contract.
 
 maybe you want to see what I look like? this:\
 [![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "click for larger")](res/img/TKA-25-large.jpeg "you thought! you thought?! gotcha!")\

@@ -8,6 +8,9 @@ date: 2026-07-30
 this is the place to find information about how and when to meet me. 
 useful for project students, tutees, and those looking for support on one of my modules. 
 
+**please note** since 2026-08-01 i no longer work on wednesdays. 
+i am on a 0.8FTE contract.
+
 ---
 
 ## planned time away 
