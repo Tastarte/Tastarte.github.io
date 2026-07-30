@@ -1,6 +1,6 @@
 ---
 title: dr troy kaighin astarte
-date: 2025-05-28
+date: 2026-07-30
 ---
 # dr troy kaighin astarte
 
@@ -22,7 +22,7 @@ taken in may 2025 at kew gardens by [amber cooper-davies](https://ambercooperdav
 
 or maybe you came for my [publications](#publications)?
 
-or a cv? that's not here. sorry. not sure if there's enough demand! 
+or a cv? that's not here yet. i am going to start working on updating mine so maybe it'll be here in due course.  
 
 ---
 
@@ -38,7 +38,7 @@ or a cv? that's not here. sorry. not sure if there's enough demand!
 
 ## about me
 
-troy kaighin astarte is a senior lecturer in computer science at [swansea university](https://www.swansea.ac.uk/staff/t.k.astarte/). troy graduated with a degree in computer science and a phd in the history of computer science from newcastle university. their research is in the history of computing and computer science, with previous work on the history of programming language semantics and concurrency. troy's teaching is in various areas of computing with a focus on shaping a more socially-aware generation of graduates. 
+troy kaighin astarte is a senior lecturer in computer science at [swansea university](https://www.swansea.ac.uk/staff/t.k.astarte/). troy graduated with a degree in computer science and a phd in the history of computer science from newcastle university. their research is in the history of computing and computer science, with previous work on the history of programming language semantics and concurrency. troy's teaching is in various areas of computing with a focus on shaping a more socially-aware generation of graduates. troy is the head of year 3 (that's the final year of a traditional undergraduate degree). 
 
 at swansea, they are a member of the educational, historical, and philosophical foundations of computer science research group ([ehp](https://www.swansea.ac.uk/compsci/research-and-impact/educational-historical-philosophical-foundations/ "ehp research group page")), the robert recorde centre for fundamental studies, the centre for digital arts and humanities ([codah](https://codah.swansea.ac.uk/ "codah web pages")), the [computer science theory group](https://swansea-theory.github.io/ "theory group web pages"), the [fit lab](http://fitlab.eu "fit lab web page"), and the [history of computing collection](http://hocc.swansea.ac.uk "history of computing collection pages"). 
 
