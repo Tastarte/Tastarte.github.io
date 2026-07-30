@@ -1,6 +1,6 @@
 ---
 title: dr troy kaighin astarte
-date: 2026-05-28
+date: 2026-07-30
 ---
 
 # troy astarte office info
@@ -12,26 +12,14 @@ useful for project students, tutees, and those looking for support on one of my 
 
 ## planned time away 
 
-2nd june (al)\
-9th june (al)\
-16th june (al)\
-22nd to 23rd june (giving a talk in york)\
-25th june (al)\
-
-29th june to 3rd july (not away, but busy with [logic colloquium](https://logiccolloquium2026.github.io/))
-
-11th to 18th july 2026 (history of science conference edinburgh)
+imagine having a holiday 
 
 ---
 
 ## drop in hours 
 
-find them on [the intranet](https://fse-intranet.swan.ac.uk/intranet/staff_officehours?selected_staff_id=203842).
-we are constantly threatened this intranet may disappear.
-
 office hours depend on your need.
 if you are a project student, please [book a meeting](#book-to-see-me). 
-if you are seeing me for a module, see below. 
 if you are looking for the head of year 3, choose any of the below options; you can even straight up email me. 
 
 ### csc309
@@ -40,7 +28,11 @@ to be organised in september
 
 ### cs-115
 
-to be organised in january 2027
+module is dead 
+
+### maybe some other module? 
+
+check back in september
   
 ---
 
