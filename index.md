@@ -20,8 +20,11 @@ info on my union work is at [/ucu](ucu.html).
 i am on a 0.8FTE contract.
 
 maybe you want to see what I look like? this:\
-[![a person (troy) with pink hair and glasses smiles as pink petals fall from the cherry tree above across their face and onto their mustard-coloured cardigan](res/img/TKA-25.png "click for larger")](res/img/TKA-25-large.jpeg "you thought! you thought?! gotcha!")\
-taken in may 2025 at kew gardens by [amber cooper-davies](https://ambercooperdavies.com/ "she's an illustrator, but used my camera most capably").
+
+
+![](res/img/TKA-25-falls.JPG "troy at one of the four falls. they are wearing an olive green long-sleeve top and a hiking backpack. their hair is tucked away and they are smiling slightly.")
+
+taken in early august 2025 by kate mee. 
 
 or maybe you came for my [publications](#publications)?
 
