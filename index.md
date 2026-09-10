@@ -1,6 +1,6 @@
 ---
 title: dr troy kaighin astarte
-date: 2026-07-30
+date: 2026-09-10
 ---
 # dr troy kaighin astarte
 
@@ -63,6 +63,8 @@ i haven't included the journal editorials.
 
 some pdfs are hosted here, typically if they are not available anywhere else. if you see this page and really want a different pdf, [email me](#dr-troy-kaighin-astarte "email address was at the top, remember?").
 
+Megan Venn-Wycherley, Troy Astarte, John Tucker, Kristian Brooks and Mark Keheller. 'A  Place in Computing: Using Local Heritage to Build Belonging'. *SIGCSE Virtual* 2026. (just accepted, better citation formatting to come!)
+
 Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090> (OA).
 
 Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. <https://www.doi.org/10.14619/2737> (OA, doi is for whole book).
@@ -73,6 +75,8 @@ Troy Kaighin Astarte. From monitors to monitors: an early history of concurrency
 Troy Kaighin Astarte. “Difficult things are difficult to describe”: The role of formal semantics
 in European computer science, 1960–1980. In Janet Abbate and Stephanie Dick, editors, *Abstractions
 and Embodiments: New Histories of Computing and Society*. Johns Hopkins University Press, August 2022. [pdf](res/pdf/Astarte2022Difficult.pdf "i see no other online access so here it is").
+
+Troy Kaighin Astarte, editor. 'HFM 2019 - History of Formal Methods Workshop'. In: *Formal Methods. FM 2019 International Workshops. Porto, Portugal, October 7–11, 2019, Revised Selected Papers, Part II*, LNCS 12233. Springer, 2020. <http://10.1007/978-3-030-54997-8>.
 
 Troy Kaighin Astarte. Formalising Meaning: a History of Programming Language Semantics.
 PhD thesis, Newcastle University, June 2019. <https://cronfa.swan.ac.uk/Record/cronfa59379>. [pdf](res/pdf/Astarte2019PhD.pdf) (big!).
