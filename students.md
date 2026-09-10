@@ -1,6 +1,6 @@
 ---
-title: dr troy kaighin astarte
-date: 2026-07-30
+title: student info - dr troy kaighin astarte
+date: 2026-09-10
 ---
 
 # troy astarte office info
@@ -9,7 +9,10 @@ this is the place to find information about how and when to meet me.
 useful for project students, tutees, and those looking for support on one of my modules. 
 
 **please note** since 2026-08-01 i no longer work on wednesdays. 
-i am on a 0.8FTE contract.
+i am on a 0.8FTE contract. 
+
+september till december 2026 is going to be hell. 
+i'll do my best but i'm not going to be quick on emails and you won't be able to just drop in unless it's drop in hours.
 
 ---
 
@@ -23,25 +26,23 @@ imagine having a holiday
 
 office hours depend on your need.
 if you are a project student, please [book a meeting](#book-to-see-me). 
-if you are looking for the head of year 3, choose any of the below options; you can even straight up email me. 
+if you are looking for the head of year 3, choose any of the below options; you can even straight up email me but i won't necessarily be available immediately. 
 
-### csc309
+### csc309 & cs-107
 
-to be organised in september
+tuesdays and thursdays 10 - 11:00.
+
+_not thursday 1st october_ when i am instead available wednesday 30th september 11 - 12:00.
 
 ### cs-115
 
-module is dead 
-
-### maybe some other module? 
-
-check back in september
+module is dead and i don't co-ordinate the replacement.
   
 ---
 
 ## second-year project students
 
-to be reorganised in september
+to be reorganised in october
 
 ---
 
@@ -49,9 +50,7 @@ to be reorganised in september
 
 if you are a personal tutee or a project student, or need to see me in my year head role, visit my [booking page](https://outlook.office.com/bookwithme/user/8e101a47e22e4af793d033901758d0e4@Swansea.ac.uk/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ismsaljsauthenabled&ep=mlink). 
 
-the booking times are basically all day tuesday, thursday, and friday, minus any meetings i might have, and the above drop-ins.
-
-note fridays i am working on singleton campus, in the margam building, until september.
+you will need to give at least 24 hours' notice. 
 
 --- 
 
