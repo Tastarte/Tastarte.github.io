@@ -10,6 +10,11 @@ useful for project students, tutees, and those looking for support on one of my 
 
 **please note** since 2026-08-01 i no longer work on wednesdays. 
 i am on a 0.8FTE contract. 
+my no work day will be thursday intead of wednesday on the following dates:
+
+* 1st october
+* 15th october
+* 11th march
 
 september till december 2026 is going to be hell. 
 i'll do my best but i'm not going to be quick on emails and you won't be able to just drop in unless it's drop in hours.

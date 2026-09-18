@@ -18,6 +18,11 @@ info on my union work is at [/ucu](ucu.html).
 
 **please note** since 2026-08-01 i no longer work on wednesdays. 
 i am on a 0.8FTE contract.
+my no work day will be thursday intead of wednesday on the following dates:
+
+* 1st october
+* 15th october
+* 11th march
 
 maybe you want to see what I look like? this:\
 
@@ -66,7 +71,7 @@ i haven't included the journal editorials.
 
 some pdfs are hosted here, typically if they are not available anywhere else. if you see this page and really want a different pdf, [email me](#dr-troy-kaighin-astarte "email address was at the top, remember?").
 
-Megan Venn-Wycherley, Troy Astarte, John Tucker, Kristian Brooks and Mark Keheller. 'A  Place in Computing: Using Local Heritage to Build Belonging'. *SIGCSE Virtual* 2026. (just accepted, better citation formatting to come!)
+Megan Venn-Wycherley, Troy Astarte, John Tucker, Kristian Brooks, and Mark Kelleher. 2026. A Place in Computing: Using Local Heritage to Build Belonging. In *Proceedings of the 2nd ACM Virtual Global Computing Education Conference V.2 (SIGCSE Virtual 2026), November 12–15, 2026, Virtual Event, USA.* ACM, New York, NY, USA, 3 pages. <https://doi.org/10.1145/3795860.3846225> (OA).
 
 Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090> (OA).
 
