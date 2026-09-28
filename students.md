@@ -1,6 +1,6 @@
 ---
 title: student info - dr troy kaighin astarte
-date: 2026-09-10
+date: 2026-09-28
 ---
 
 # troy astarte office info
@@ -17,13 +17,13 @@ my no work day will be thursday intead of wednesday on the following dates:
 * 11th march
 
 september till december 2026 is going to be hell. 
-i'll do my best but i'm not going to be quick on emails and you won't be able to just drop in unless it's drop in hours.
+i'll do my best but i'm not going to be quick on emails and may not just be able to drop in unless it's drop in hours.
 
 ---
 
 ## planned time away 
 
-imagine having a holiday 
+imagine having time for a holiday 
 
 ---
 
@@ -37,7 +37,7 @@ if you are looking for the head of year 3, choose any of the below options; you 
 
 tuesdays and thursdays 10 - 11:00.
 
-_not thursday 1st october_ when i am instead available wednesday 30th september 11 - 12:00.
+_not thursday 1st october_ when i am instead available wednesday 30th september 09:00–10:00.
 
 ### cs-115
 
