@@ -55,6 +55,8 @@ to be reorganised in october
 
 if you are a personal tutee or a project student, or need to see me in my year head role, visit my [booking page](https://outlook.office.com/bookwithme/user/8e101a47e22e4af793d033901758d0e4@Swansea.ac.uk/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ismsaljsauthenabled&ep=mlink). 
 
+**note** check the time zone shown on the page (globe icon next to filters) is showing uk time...
+
 you will need to give at least 24 hours' notice. 
 
 --- 
