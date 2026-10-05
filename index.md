@@ -20,8 +20,6 @@ info on my union work is at [/ucu](ucu.html).
 i am on a 0.8FTE contract.
 my no work day will be thursday intead of wednesday on the following dates:
 
-* 1st october
-* 15th october
 * 11th march
 
 maybe you want to see what I look like? this:\

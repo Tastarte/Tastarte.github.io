@@ -13,7 +13,6 @@ i am on a 0.8FTE contract.
 my no work day will be thursday intead of wednesday on the following dates:
 
 * 1st october
-* 15th october
 * 11th march
 
 september till december 2026 is going to be hell. 
@@ -37,7 +36,7 @@ if you are looking for the head of year 3, choose any of the below options; you 
 
 tuesdays and thursdays 10 - 11:00.
 
-_not thursday 1st october_ when i am instead available wednesday 30th september 09:00–10:00.
+_not thursday 8th october_ when i am instead available friday 9th october 13:00--14:00.
 
 ### cs-115
 
