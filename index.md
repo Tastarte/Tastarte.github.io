@@ -25,9 +25,9 @@ my no work day will be thursday intead of wednesday on the following dates:
 maybe you want to see what I look like? this:\
 
 
-![](res/img/TKA-25-falls.JPG "troy at one of the four falls. they are wearing an olive green long-sleeve top and a hiking backpack. their hair is tucked away and they are smiling slightly.")
+![](res/img/TKA-autumn-2026.JPG "troy in their office, with shorter hair swept asymmetrically to the right side of their face. they wear a grey cardigan and a neutral expression.")
 
-taken in early august 2025 by kate mee. 
+self-capture in late august 2026.
 
 or maybe you came for my [publications](#publications)?
 
