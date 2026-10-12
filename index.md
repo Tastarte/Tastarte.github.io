@@ -71,6 +71,8 @@ some pdfs are hosted here, typically if they are not available anywhere else. if
 
 Megan Venn-Wycherley, Troy Astarte, John Tucker, Kristian Brooks, and Mark Kelleher. 2026. A Place in Computing: Using Local Heritage to Build Belonging. In *Proceedings of the 2nd ACM Virtual Global Computing Education Conference V.2 (SIGCSE Virtual 2026), November 12–15, 2026, Virtual Event, USA.* ACM, New York, NY, USA, 3 pages. <https://doi.org/10.1145/3795860.3846225> (OA).
 
+Troy Astarte. Panel 2: Making history accessible. *In Heritage Insights 2022 Online Seminar, Heritage Insights ’22,* New York, NY, USA, 2026. Association for Computing Machinery. <https://doi.org/10.1145/3686262.3686270>
+
 Troy Kaighin Astarte. Conceptualising programming language semantics. *Philosophies*, 10(4):90 2025. <https://doi.org/10.3390/philosophies10040090> (OA).
 
 Troy Kaighin Astarte. Tense & temporality: Computers and the logic of time. In Arianna Borrelli and Helena Durnova, editors, *Computing Practices and Knowledge Cultures*. meson press, 2025. <https://www.doi.org/10.14619/2737> (OA, doi is for whole book).
