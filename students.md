@@ -1,6 +1,6 @@
 ---
 title: student info - dr troy kaighin astarte
-date: 2026-09-28
+date: 2026-10-12
 ---
 
 # troy astarte office info
@@ -22,7 +22,7 @@ i'll do my best but i'm not going to be quick on emails and may not just be able
 
 ## planned time away 
 
-imagine having time for a holiday 
+friday 2026-11-06 i am driving to north wales for work reasons 
 
 ---
 
@@ -35,8 +35,6 @@ if you are looking for the head of year 3, choose any of the below options; you 
 ### csc309 & cs-107
 
 tuesdays and thursdays 10 - 11:00.
-
-_not thursday 8th october_ when i am instead available friday 9th october 13:00--14:00.
 
 ### cs-115
 
