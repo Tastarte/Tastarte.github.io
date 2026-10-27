@@ -1,6 +1,6 @@
 ---
 title: student info - dr troy kaighin astarte
-date: 2026-10-12
+date: 2026-10-27
 ---
 
 # troy astarte office info
@@ -12,11 +12,13 @@ useful for project students, tutees, and those looking for support on one of my 
 i am on a 0.8FTE contract. 
 my no work day will be thursday intead of wednesday on the following dates:
 
-* 1st october
-* 11th march
+* 11th march 2027
 
-september till december 2026 is going to be hell. 
+september till december 2026 is hell. 
 i'll do my best but i'm not going to be quick on emails and may not just be able to drop in unless it's drop in hours.
+
+drop in hour tuesday 27th october at 10:00 is cancelled for an urgent vet appointment.
+
 
 ---
 
