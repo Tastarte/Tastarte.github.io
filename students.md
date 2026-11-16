@@ -1,6 +1,6 @@
 ---
 title: student info - dr troy kaighin astarte
-date: 2026-10-27
+date: 2026-11-16
 ---
 
 # troy astarte office info
@@ -17,14 +17,13 @@ my no work day will be thursday intead of wednesday on the following dates:
 september till december 2026 is hell. 
 i'll do my best but i'm not going to be quick on emails and may not just be able to drop in unless it's drop in hours.
 
-drop in hour tuesday 27th october at 10:00 is cancelled for an urgent vet appointment.
-
 
 ---
 
 ## planned time away 
 
-friday 2026-11-06 i am driving to north wales for work reasons 
+from 14th december 2026 i will be on annual leave until the re-opening of university. 
+i might even have some time off in january too. (imagine)
 
 ---
 
@@ -46,7 +45,7 @@ module is dead and i don't co-ordinate the replacement.
 
 ## second-year project students
 
-to be reorganised in october
+we meet on thursdays at 1430, every two weeks since 15th october
 
 ---
 
