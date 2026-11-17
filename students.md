@@ -8,6 +8,8 @@ date: 2026-11-16
 this is the place to find information about how and when to meet me. 
 useful for project students, tutees, and those looking for support on one of my modules. 
 
+17th november 2026 i am working from home due to illness and therefore not holding office hours.
+
 **please note** since 2026-08-01 i no longer work on wednesdays. 
 i am on a 0.8FTE contract. 
 my no work day will be thursday intead of wednesday on the following dates:
